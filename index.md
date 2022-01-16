@@ -1,5 +1,5 @@
 ---
-RunAsh: "👋 Hello and welcome to RunAsh🎉"
+RunAsh: "👋 Hello and welcome to RunAsh blog🎉"
 ---
 About
 
