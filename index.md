@@ -1,5 +1,10 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to RunAsh"
+---
+About
+
+runash world ...
 ---
 
-I'm glad you are here. I plan to talk about ...
+
+
