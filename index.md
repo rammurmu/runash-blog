@@ -1,9 +1,9 @@
 ---
-title: "Welcome to RunAsh"
+title: "Welcome to RunAsh blog page"
 ---
 About
 
-runash world ...
+runash blog page
 ---
 
 
