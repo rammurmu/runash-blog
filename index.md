@@ -1,9 +1,9 @@
 ---
-title: "Welcome to RunAsh blog page"
+theme: "minima"
 ---
-About
+theme
 
-runash blog page
+runash minima blog theme
 ---
 
 
