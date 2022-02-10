@@ -3,7 +3,8 @@ title: "Welcome to RunAsh"
 ---
 About
 
-runash world ...
+runash is an live streaming hybrid platform and marketplace for retailing 
+
 ---
 
 
