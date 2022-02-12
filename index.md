@@ -1,10 +1,10 @@
 ---
-title: "Introducing the next generation and future of e-commerce"
+title: "RunAsh"
 
 ---
+Introducing the new generation and future of<br>e-commerce
 
 
----
 
 
 
@@ -38,13 +38,13 @@ RunAsh is an live streaming hybrid platform and marketplace<br>
 Watch live Stream
 <br>
 <br>
-| [Sign In](https://) |
+[Sign In](https://)
 <br>
 <br>
 Watch and connect live with the nearest retailers
 <br>
 <br>
-| [Sign Up](https://) |Create Account 
+[Sign Up](https://)Create Account 
 <br>
 <br>
 Bridging the gap with face to face selling experience
