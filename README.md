@@ -1,6 +1,13 @@
-Latest 
-
-Feb2022
+Latest<br>
+### The live streaming selling platform 
+Were retaiers real-time face-to-face interactive showcase, demonstrate 
+and presented their products and services with buyers
+### The live streaming shopping platform 
+That lets buyer face-to-face interactive shopping with real experience
+safe and secure 
+### The live streaming as an influencer program 
+Influencers can get started live streaming on RunAsh,helps create, capture 
+and manage live stream 
 
 ---
 
