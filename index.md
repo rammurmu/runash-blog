@@ -1,5 +1,7 @@
 ---
-title: "About"
+layout: page
+title: Home 
+permalink: /index/
 ---
 
 
