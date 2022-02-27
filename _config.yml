@@ -1,3 +1,14 @@
+header-page:
+-about.md
+-contact.md
+-privacy.md
+-help.md
+-faq.md
+
+
+
+
+
 theme: minima
 title: RunAsh 
 author: RunAsh Digital Innovation Technologies Pivate Limited
