@@ -1,5 +1,5 @@
 Latest<br>
-### [The live streaming selling platform](https://)
+### [The live streaming selling platform](https://runash.github.io/runash-blog/2022/02/28/latest.html)
 Were retaiers real-time face-to-face interactive showcase, demonstrate 
 and presented their products and services with buyers
 ### [The live streaming shopping platform](https://)
