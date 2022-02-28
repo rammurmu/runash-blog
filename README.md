@@ -9,9 +9,25 @@ safe and secure
 Influencers can get started live streaming on RunAsh,helps create, capture 
 and manage live stream 
 
----
+--- 
+Introducing the next generation and future of e-commerce technology and experience with physical realities<br>
+live streaming for retailing<br>
+Were unorganized organic retailers face-to-face demonstration and presentation their organic products with buyers<br>
+We've created new way to use physical reality experience 
 
+About 
 
+RunAsh is a live streaming hybrid platform and marketplace for retaining 
+
+| [Sign Up](https://)| [Sign In](https://) 
+
+Get started live stream with runash 
+
+You're a organic retailer enable real-time check out our [business solution](https://)<br>
+You're a organic retail products buyers engage face-to-face check out our [s shopping solution](https://)
+
+Grow your selles with own made real selling experience<br>
+Let's try next generation real shopping experience with your physical reality experience
 
 
 
