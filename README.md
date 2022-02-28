@@ -21,7 +21,7 @@ RunAsh is a live streaming hybrid platform and marketplace for retaining <br>
 We've create a new concept of real selling and buying experience<br>
 Change the nature and model of retaining 
 
-| [Sign Up](https://)| [Sign In](https://) to create account | 
+| [Sign Up](https://)| [Sign In](https://) | 
 
 
 Get started live stream with runash 
