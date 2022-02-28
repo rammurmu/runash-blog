@@ -22,7 +22,7 @@ We've create a new concept of real selling and buying experience<br>
 Change the nature and model of retaining 
 
 | [Sign Up](https://)| [Sign In](https://) | <br>
-|-|:-:||:-:|-|
+
 
 Get started live stream with runash 
 
@@ -30,7 +30,7 @@ You're a organic retailer enable real-time check out our [business solution](htt
 You're a organic retail products buyers engage face-to-face check out our [shopping solution](https://)
 
 Grow your selles with own made real selling experience<br>
-Let's try next generation real shopping experience with your physical reality experience
+Lets try next generation real shopping experience with your physical reality experience
 
 To watch live stream and connect live with the nearest retailers<br>
 [Go live](https://)
