@@ -6,13 +6,22 @@ parmalink: /contact/
 
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
-👏 Welcome to RunAsh MVP   
+👏 Welcome to RunAsh MVP🚀   
 
-# 🤝 CONTACT #
+# 🤝 CONTACT # 
+
+###### Last update<br>01-03-2022<br> ######
 Before contacting us , please check the [frequently asked questions ](https://)<br>
 
-Here are contact emails for different part of RunAsh<br>
-Digital life easy life
+Here are contact emails for different part of runash
+
+Admin to direct write<br>[admin@runash.in](admin@runash.in)
+
+Sales ecutive<br>[sales@runash.in](sales@runash.in)
+
+Support executive<br>[Support@runash.in](support@runash.in)
+
+<br>Our tagline:"Digital life easy life"<br>Our abrevation "Rah"
 
 
 
@@ -20,7 +29,8 @@ Digital life easy life
 
 
 
-## 🧑‍💻 Remote Team ##
+
+### 🧑‍💻 Remote Team ###
 
 | Email*
 
@@ -34,11 +44,13 @@ Attachments (0)
 
 | Sign up for updates
 
-Send
+| Send
+
+
 
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 
-## RunAsh ##
+### Interactive Channel ###
 
 Direct message 
 
@@ -52,7 +64,7 @@ PHONE NO 06542281002
 
 EMAIL ID admin@runash.in
 
-## 🕐 Reach Anytime ##
+### 🕐 Reach Anytime ###
 
 Open today
 
@@ -60,9 +72,9 @@ Open today
 
  
 
-Pre-launch 
+We're live
 
-Get directions
+[🧭 Get directions](https://)
 
 Instagram
 
@@ -74,11 +86,23 @@ Reviews
 
 Reviews coming soon!
 
-## 🧑‍💻 Remote Work ##
+### Social Media 
+- [Blog](https://runash.in/blog)
+- [Twitter](https://twitter.com/runashstartup)
+   - [Facebook](https://facebook.com/runashstartup)
+    - [Youtube](https://youtube.com/)
+     - [Twitch](https://twitch.com/rlivestream)
+       - [Dicord](https://discord.com/runash)
+        - [Medium](https://medium.com/runash)
+           -[Instagram](https://instagram.com/runashstartup)
+
+### 🧑‍💻 Remote Work ###
 
 Best startup jobs at runash
-
 Connect with remote team founders can reach you via email
+
+
+
 
 Apply
 
@@ -86,11 +110,11 @@ Apply
 
 | Phone
 
-Email*
+| Email*
 
-Message
+| Message
 
-LinkedIn Profile url*
+| LinkedIn Profile url*
 
 Resume
 
@@ -98,7 +122,7 @@ Attachments (0)
 
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 
-Submit
+| Submit
 
 ###### RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED ######
 
