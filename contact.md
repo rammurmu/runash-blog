@@ -5,9 +5,10 @@ parmalink: /contact/
 --- 
 
 
-## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Welcome to RunAsh MVP 
---- 
-## Contact ##
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
+👏 Welcome to RunAsh MVP   
+
+# 🤝 CONTACT #
 Before contacting us , please check the [frequently asked questions ](https://)<br>
 
 Here are contact emails for different part of RunAsh
@@ -19,19 +20,19 @@ Digital life easy life
 
 
 
-## Remote Team ##
+## 🧑‍💻 Remote Team ##
 
 | Email*
 
 | Name*
 
-Message*
+| Message*
 
 Attach Files
 
 Attachments (0)
 
-Sign up for updates
+| Sign up for updates
 
 Send
 
@@ -51,7 +52,7 @@ PHONE NO 06542281002
 
 EMAIL ID admin@runash.in
 
-## Reach Anytime ##
+## 🕐 Reach Anytime ##
 
 Open today
 
@@ -73,7 +74,7 @@ Reviews
 
 Reviews coming soon!
 
-## Remote Work ##
+## 🧑‍💻 Remote Work ##
 
 Best startup jobs at runash
 
@@ -103,6 +104,6 @@ Submit
 
 CIN U52590JH2021PTC016339
 
-© RunAsh
+© Copyright 2022 RunAsh 
 
-## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
