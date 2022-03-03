@@ -11,10 +11,10 @@ parmalink: /contact/
 # 🤝 CONTACT #
 Before contacting us , please check the [frequently asked questions ](https://)<br>
 
-Here are contact emails for different part of RunAsh
-
-
+Here are contact emails for different part of RunAsh<br>
 Digital life easy life
+
+
 
 
 
@@ -82,9 +82,9 @@ Connect with remote team founders can reach you via email
 
 Apply
 
-Name*
+| Name*
 
-Phone
+| Phone
 
 Email*
 
@@ -100,10 +100,10 @@ This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of S
 
 Submit
 
-#### RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED ####
+###### RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED ######
 
-CIN U52590JH2021PTC016339
+###### CIN U52590JH2021PTC016339 ######
 
-© Copyright 2022 RunAsh 
+###### © Copyright 2022 RunAsh <br>All Rights Reserved ######
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
