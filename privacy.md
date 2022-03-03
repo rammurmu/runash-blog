@@ -11,13 +11,13 @@ permalink: /privacy/
 
 
 
-## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 
-### Legal ###
----
-#### PRIVACY POLICY ####
----
-Last update December 2021<br>
+# ⚖️ LEGAL #
+
+### PRIVACY POLICY ###
+
+###### Last update<br> 01-03-2022<br>
 Privacy policy -RunAsh a set of public statements declaring to our users/customers how<br>we treat their personal information that you gather on the runash.in website
 
 
@@ -215,18 +215,20 @@ You can review the most current version of the terms of services at any time at 
 
 ### SECTION 20 CONTACT INFORMATION ###
 
-Question about the Terms of Services should be sent to us at admin@runash.in
+Question about the Terms of Services should be sent to us at <br>admin@runash.in
 
-##### RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED #####
+###### RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED ######
 
-#### CIN U52590JH2021PTC016339 ###
+###### CIN U52590JH2021PTC016339 ######
 
   
 
-All Rights Reserve
+###### © Copyright 2022 RunAsh<br>All Rights Reserve ######
 
----
+
 
  
 
-![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)© RunAsh [About](https://) [Contact](https://) [FAQ](https://) [Help](https://) [Privacy](https://) [Live Stream](https://)
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream 
+
+## [About](https://) [Contact](https://) [FAQ](https://) [Help](https://) [Privacy](https://) [Live Stream](https://) ##
