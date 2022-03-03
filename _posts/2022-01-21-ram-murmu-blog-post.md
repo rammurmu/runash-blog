@@ -1,14 +1,14 @@
 ---
 
-title: "RunAsh Blog"
+title: "✍️RunAsh Blog"
 
-date: 2022-01-21
+date: 🗓️2022-01-21
 ---
-Introducing the next generation technology and experience for selling and buying<br>
-How to create runash account<br>
-RunAsh live stream<br>
-written by Ram Murmu<br>
-Founder of runash<br>
+The next generation eCommerce technology and real experience latest blog update posts
+
+Live streaming<br>
+Written by <br> Ram Murmu<br>
+Founder & CEO <br>
 <br>
 You can find information below about each step of the account registration process<br>
 - [Getting your account set up](https://)
@@ -18,9 +18,10 @@ You can find information below about each step of the account registration proce
 - [Additional info](https://)
 - [Team](https://)
 
-Did this post help you <br>
-👍. 👎. 💛. <br>
-<br>
+Did this post help you 
+
+| 👍 | | 👎 | | 💛 |
+
 How to register: Getting your account set up<br>
 To register a runash account on runash.in or app, you'll need a buyer and seller account<br>
 Choose your preference account type<br>
