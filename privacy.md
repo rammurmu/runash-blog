@@ -18,14 +18,14 @@ permalink: /privacy/
 ### PRIVACY POLICY ###
 
 ###### Last update<br> 01-03-2022<br>
-Privacy policy -RunAsh a set of public statements declaring to our users/customers how<br>we treat their personal information that you gather on the runash.in website
+Privacy policy-RunAsh a set of public statements declaring to our users/customers how<br>we treat their personal information that you gather on the [runash.in](https://runash.in) website
 
 
 
 
-For Indian resident, please Click here to learn more about your privacy right
+For Indian resident, please [Click here](https://)to learn more about your privacy right
 
-Welcome to the RunAsh website (Including all website to which this privacy policy is posted, the"site") which is operated by RunAsh Digital Innovation Technologies Private Limited, and it's affiliates (collectively,"RunAsh","we" "us"and/or "our"). this site provides among other things information about our people, startup and registration process,tool for registration to submit details and go through the registration process,our help/blog, forum for discussion about topics relevant to seller,and profile of seller and business that have subscribed in the RunAsh Live Stream (Collectively the"services")
+Welcome to the RunAsh Website (Including all website to which this privacy policy is posted, the"site") which is operated by RunAsh Digital Innovation Technologies Private Limited, and it's affiliates (collectively,"RunAsh","we" "us"and/or "our"). this site provides among other things information about our people, startup and registration process,tool for registration to submit details and go through the registration process,our help/blog, forum for discussion about topics relevant to seller,and profile of seller and business that have subscribed in the RunAsh Live Stream (Collectively the"services")
 
 This privacy policy explains what personal information (defined below) we collect,how we use and share the data, and your choices concerning our data practice.This privacy policy is incorporated in to and forms part of our Terms of Use
 
@@ -215,7 +215,7 @@ You can review the most current version of the terms of services at any time at 
 
 ### SECTION 20 CONTACT INFORMATION ###
 
-Question about the Terms of Services should be sent to us at <br>admin@runash.in
+Question about the Terms of Services should be sent to us at <br>[admin@runash.in](admin@runash.in)
 
 ###### RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED ######
 
@@ -223,7 +223,7 @@ Question about the Terms of Services should be sent to us at <br>admin@runash.in
 
   
 
-###### © Copyright 2022 RunAsh<br>All Rights Reserve ######
+###### © Copyright 2022 RunAsh<br>All Rights Reserved ######
 
 
 
