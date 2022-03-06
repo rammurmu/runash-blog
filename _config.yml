@@ -9,11 +9,11 @@
 
 
 
-theme: jekyll-materialdocs
 
 
 
 
+remote_theme: chromatical/jekyll-materialdocs
 title: RunAsh 
 author: RunAsh Digital Innovation Technologies Pivate Limited
 email: admin@runash.in
@@ -22,7 +22,9 @@ description: > # this means to ignore newlines until "baseurl:"
                line in _config.yml. It will appear in your document head meta (for
                Google search results) and in your feed.xml site description.
  
-
+plugins:
+  - jekyll-remote-theme
+  
 
 
   
