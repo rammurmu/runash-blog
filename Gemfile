@@ -1,4 +1,4 @@
-gem "jekyll_materialdocs"
+gem "jekyll-materialdocs"
 
 
 
