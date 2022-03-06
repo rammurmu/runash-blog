@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Watch Live
+title: Watch
 permalink: /watch.md/
 ---
 
