@@ -7,24 +7,25 @@ permalink: /about/
 WELCOME TO RunAsh MVP🚀 
 
 # 🎤 Introduction 
+### About RunAsh
 ###### Last Update<br>01-03-2022<br>
 
 
-### About RunAsh ###
+
 
 RunAsh Discipline & Culture
 
-Discipline & Learning is the Backbone of the Development of our Startup Journey & Culture is Behavior
+Discipline & Learning is the Backbone of the Development of our Startup Journey & Culture is Behavior<br>
+A live streaming hybrid platform and marketplace for retailing,were retailers face-to-face meet,showcase,demonstrate,and presentation their products with buyers,we are commite to building new ways to use physical reality experience
 
 
 
 
 
-A live retail streaming hybrid platform and marketplace
 
-That lets retailers face-to-face sell their products with customers via live streaming
 
-We're committed to building10x affordable, sustainable, efficient OSS 
+
+
 
 Currently, India's 73% unorganized retail businesses don't enable online selling
 
