@@ -91,11 +91,11 @@ Build real selling and buying experience with <br>
 
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
-# [``About``](https://)  [``Privacy``](https://) [``Help``](https://)  
-# [``FAQ``](https://)  [``Contact``](https://) [``Go Live``](https://) [``Live Watch``](https)
+# [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+
+
+
