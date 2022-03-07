@@ -150,9 +150,9 @@ Organic Breads<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 
 
 
-|Give your feedback to create a real experience✨ |Sign up for weekly updates from Runash |
+|Give your feedback to create a real experience✨ |Sign up for weekly updates from Runash ✨ |
 |-------------------|------------------------|
-| [Give feedback?](https://) | email address [Subscribe](https://) | 
+| 📝 [Give feedback?](https://) | | 📨 email address |  [Subscribe](https://) | 
 
 
 
@@ -163,8 +163,10 @@ Organic Breads<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 [About](https://runash.in/about)  [Contact](https://runash.in/Contact)  [Privacy](https://runash.in/privacy) [Help](https://)  [FAQ](https://) 
 
 RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED <br>
-CIN U52590JH2021PTC016339.[^1] <br>
-©2021RunAsh[^1]
+CIN U52590JH2021PTC016339.[^1] 
+
+©2021RunAsh[^1] 
+
 [^1]: Write in India for World  
 
 
