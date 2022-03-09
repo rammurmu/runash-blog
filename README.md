@@ -11,20 +11,20 @@
 # INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE 
 ###### Last update<br>01-03-2022<br>
 
-| [📽️ Live streaming for 💼 business](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
+- [📽️ Live streaming for 💼 business](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
 Were retaiers face-to-face interactive demonstrate 
-and presented their products and services with buyers  |
+and presented their products and services with buyers<br>
 
-| [📽️ Live streaming for 🛍️ shopping](https://)<br>
+- [📽️ Live streaming for 🛍️ shopping](https://)<br>
 That lets buyer face-to-face interactive shopping with real experience
-safe and secure  |
+safe and secure  
 
-| [🧑‍💻 Remote working at runash](https://)<br>
-Apply to your dream job |
+- [🧑‍💻 Remote working at runash](https://)<br>
+Apply to your dream job 
 
-| [📽️ Live streaming as an 👫 influencer](https://)<br>
+- [📽️ Live streaming as an 👫 influencer](https://)<br>
 Influencers can get started live streaming on RunAsh,helps create, capture 
-and manage live stream  |
+and manage live stream  
 
 
 
@@ -39,7 +39,7 @@ We have created new way to use physical reality selling and buying experience
 RunAsh is a live streaming hybrid platform and marketplace for retaining 
 We've create a new concept of real selling and buying experience
 Change the nature and model of retaining<br> 
-[Learn more](https://)<br>
+[Learn more »](https://)<br>
 
 | [Sign Up](https://) | [Sign In](https://) |
 
@@ -92,8 +92,10 @@ Build real selling and buying experience with <br>
 
 
 
-| Give your feedback to create a real experience <br>📝 [Give feedback](https://) |Sign up weekly updates from RunAsh<br>📨 email address [Subscribe](https://)  |
 
+| Give your feedback to create a real experience ✨|Sign up weekly update from RunAsh ✨ |
+|----------------------|------------------------|
+|📝 [Give feedback »](https://) | 📨 Email address [Subscribe »](https://) |
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 # [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
