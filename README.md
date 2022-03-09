@@ -7,7 +7,7 @@
 
 
 ### 👏 Welcome to RunAsh family ! ###
-## 🎥 Live stream technology  ##
+## [``🎥 LETS GO LIVE NOW ☞``](https://)  ##
 # INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE 
 ###### Last update<br>01-03-2022<br>
 
@@ -26,7 +26,7 @@ and manage live stream
 
 
 
-# Live stream for sell and buy<br>
+# 📺 Live stream for 🛒 real sell and 🛍️ real buy<br>
 Were unorganized organic retailers face-to-face demonstration and presentation their organic products with buyers<br>
 We have created new way to use physical reality selling and buying experience
 
@@ -35,15 +35,15 @@ We have created new way to use physical reality selling and buying experience
 
 RunAsh is a live streaming hybrid platform and marketplace for retaining 
 We've create a new concept of real selling and buying experience
-Change the nature and model of retaining 
-
+Change the nature and model of retaining<br> 
+[Learn more](https://)<br>
 | [Sign Up](https://)| [Sign In](https://) | 
 
 
 ### Get started live stream with runash 
 
 You're a organic retailer enable real-time check out our [business solution](https://)<br>
-You're a organic retail products buyers engage face-to-face check out our [shopping solution](https://)
+You're a organic retail products buyers engage face-to-face check out our [shopping solution](https://)<br>
 Grow your sales with own made real selling experience <br>
 Let's try next generation real selling and shopping experience with your physical reality experience 
 
