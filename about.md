@@ -1,14 +1,14 @@
 ---
 layout: page 
 title: 🎓About 
-date: April 2022 
+date: 2022-01-04 10:00:00 +0900
 permalink: /about/ 
 --- 
 ## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
 WELCOME TO RunAsh MVP🚀 
 
 # 🎤 Introduction 
-### RunAsh Disciline and Culture 
+### RunAsh Discipline and culture 
 
 
 
@@ -16,8 +16,15 @@ WELCOME TO RunAsh MVP🚀
 
 
 
-Discipline & Learning is the Backbone of the Development of our Startup Journey & Culture is Behavior<br>
-A live streaming hybrid platform and marketplace for retailing,were retailers face-to-face meet,showcase,demonstrate,and presentation their products with buyers,we are commite to building new ways to use physical reality experience.Currently,Indias 73% unorganized retail businesses don't enable online selling,But the existing solution is doesn't fulfill to needs, to obtain their own made,real selling experience,a trusted traditional commerce model, because doesn't exist live streaming marketplace, retailers now can use face to face,contactless,own made,trusted,and real selling experience
+Discipline & learning is the backbone of the development of our startup journey & culture is behavior<br>
+RUNASH ONE LINER<br>
+A live streaming hybrid platform and marketplace for retailing<br> 
+WHAT WE DO<br>
+We created new model of marketplace were retailers face-to-face meet,showcase,demonstrate,and presentation their products with buyers <br>WHAT WE GOING TO MAKING<br>we are commite to building live streaming open source software and new ways to use physical reality experience <br>WHAT WE DOES<br>Currently,Indias 73% unorganized retail businesses don't enable online selling,but the existing solution is doesn't fulfill to needs, to obtain their own made,real selling experience,a trusted traditional commerce model, because doesn't exist live streaming marketplace <br>WHAT WE WILL DO<br>Retailers now can use face to face,contactless,own made,trusted,and real selling experience 
+
+
+
+
 
 
 
@@ -38,7 +45,7 @@ A live streaming hybrid platform and marketplace for retailing,were retailers fa
 
 ### 🎯 Goal
 
-Our goal is growing organically, word-of-mouth, increasing live streaming content creation, new users, and retention.
+Our goal is growing naturally or organically, word-of-mouth, increasing live streaming content creation, new users, and retention.
 
 ### 👁️ Vision
 
@@ -83,7 +90,7 @@ Many companies operating in the same market space selling similar products. We c
 
 ### 🔭 Market Strategy
 
-Our quality Marketing Strategy &amp; Execution To do proper marketing to potential customers segment. &amp; using partners like Facebook, Twitter, Google &amp; LinkedIn, etc to help attract new customers. Partnering with other companies to benefit from faster customer delivery, &amp; use sampling free trial to attract new use
+Our quality Marketing Strategy Execution To do proper marketing to potential customers segment. &amp; using partners like Facebook, Twitter, Google,LinkedIn, etc to help attract new customers. Partnering with other companies to benefit from faster customer delivery,use sampling free trial to attract new use
 
 ### 🧘 Organizational Development
 
@@ -93,11 +100,11 @@ We will organize the work that needs to be accomplished. work divided into funct
 
 Innovation Driven Entrepreneur (IDE)
 
-🎓 The single most important element of our business model is the management team responsible for making the live retail streaming platform. immediate market-specific knowledge, and experience in implementing the business plans. &amp; changing the nature of retailing &amp; redefine the business model
-[📚 Learn more ](https://)<br>
+🎓 The single most important element of our business model is the management team responsible for making the live retail streaming platform. immediate market-specific knowledge, and experience in implementing the business plans. &amp; changing the nature of retailing &amp; redefine the business mode<br>
+[📚 Learn more »](https://)
 
-🧑‍🏫FOUNDER 🎤 STORY 🚣🐢 JOURNEY
- Journey from a small village in 🇮🇳 India to 🇺🇸 Y Combinator startup school community member
+🧑‍🏫 FOUNDER 🎤 STORY 🐢JOURNEY 🚣<br>
+ Journey from a 🏞️ small village in 🇮🇳 India to 🇺🇸 Sillicone Valley 🌉 Y Combinator startup school community member
 
 [Learn more »](https://)
 
@@ -107,7 +114,7 @@ Our business journey started in 2007 from a small offline retail store, The Jour
 
 ### Backed by
 ###### Open Source Supporters 
-MIT GITHUB Y COMBiNATOR STARTUP SCHOOL
+[MIT](https://) [GITHUB](https://github.com) [Y COMBINATOR](https://ycombinator.com) [STARTUP SCHOOL](https://) [HACKER NEWS](https://)
 ###### RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED 
 ###### CIN U52590JH2021PTC016330
 
@@ -115,3 +122,4 @@ MIT GITHUB Y COMBiNATOR STARTUP SCHOOL
 
 
 ## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream 
+[``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Help``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
