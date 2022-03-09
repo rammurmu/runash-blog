@@ -8,7 +8,7 @@ permalink: /about/
 WELCOME TO RunAsh MVP🚀 
 
 # 🎤 Introduction 
-### ABOUT RUNASH FAMILY
+### ABOUT RUNASH VENTURE
 ###### Last update<br>Aprial 2022
 ### RunAsh Discipline and culture 
 Discipline and learning is the bacbone of the development of our startup journy and culture is behavior 
