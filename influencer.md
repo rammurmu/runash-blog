@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: 🙋 Influencer 
+title: Influencer 
 parmalink: /influencer/ 
 --- 
 👏 Welcome to RunAsh family !
