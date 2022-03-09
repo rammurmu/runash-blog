@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: 🎓About <br> 2022-01-04 10:00:00 +0900
+title: 🎓About 
 permalink: /about/
 --- 
 
@@ -8,7 +8,9 @@ permalink: /about/
 WELCOME TO RunAsh MVP🚀 
 
 # 🎤 Introduction 
+###### Last update<br>Aprial 2022
 ### RunAsh Discipline and culture 
+Discipline and learning is the bacbone of the development of our startup journy and culture is behavior 
 
 
 
@@ -16,7 +18,6 @@ WELCOME TO RunAsh MVP🚀
 
 
 
-Discipline & learning is the backbone of the development of our startup journey & culture is behavior<br>
 RUNASH ONE LINER<br>
 A live streaming hybrid platform and marketplace for retailing<br> 
 WHAT WE DO<br>
@@ -127,6 +128,6 @@ Our business journey started in 2007 from a small offline retail store, The Jour
 RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED<br>
 CIN U52590JH2021PTC016399.[^1]
 
-© 2021 RunASh,All Rights Reserved[^1]
+© 2022 RunASh,All Rights Reserved[^1]
 
 [^1]: ✍️ Write in India for World 
