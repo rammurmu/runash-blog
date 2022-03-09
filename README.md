@@ -6,8 +6,9 @@
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 
 
-### 👏 Welcome to RunAsh family ###
-# 🎥 Latest features  #
+### 👏 Welcome to RunAsh family ! ###
+## 🎥 Latest features  ##
+# INTRODUCING <br>THE NEXT GENENERATION<br>AND FUTURE OF E-COMMERCE 
 ###### Last update<br>01-03-2022<br>
 
 ### [The live streaming selling platform](https://runash.github.io/runash-blog/2022/02/28/latest.html)
@@ -23,9 +24,9 @@ Influencers can get started live streaming on RunAsh,helps create, capture
 and manage live stream 
 
 
-## Introducing the next generation and future of e-commerce<br>technology, business, community,and experience with physical realities ##
 
-Live streaming for retailing<br>
+
+# Live streaming for retailing<br>
 Were unorganized organic retailers face-to-face demonstration and presentation their organic products with buyers<br>
 We have created new way to use physical reality selling and buying experience
 
@@ -93,7 +94,12 @@ Build real selling and buying experience with <br>
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 # [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
 
+RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED<br>
+CIN U52590JH2021PTC01639.[^1]
 
+© 2022 RunAsh,All Rights Reserved[^1]
+
+[^1]: ✍️ Write in India for World
 
 
 
