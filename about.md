@@ -1,9 +1,9 @@
 ---
 layout: page 
-title: 🎓About 
-date: 2022-01-04 10:00:00 +0900
-permalink: /about/ 
+title: 🎓About <br> 2022-01-04 10:00:00 +0900
+permalink: /about/
 --- 
+
 ## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
 WELCOME TO RunAsh MVP🚀 
 
@@ -115,11 +115,18 @@ Our business journey started in 2007 from a small offline retail store, The Jour
 ### Backed by
 ###### Open Source Supporters 
 [MIT](https://) [GITHUB](https://github.com) [Y COMBINATOR](https://ycombinator.com) [STARTUP SCHOOL](https://) [HACKER NEWS](https://)
-###### RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED 
-###### CIN U52590JH2021PTC016330
+
+
 
 
 
 
 ## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream 
-[``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Help``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
+[``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Help``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://) 
+
+RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED<br>
+CIN U52590JH2021PTC016399.[^1]
+
+© 2021 RunASh,All Rights Reserved[^1]
+
+[^1]: ✍️ Write in India for World 
