@@ -7,8 +7,8 @@
 
 
 ### 👏 Welcome to RunAsh family ! ###
-## 🎥 Latest features  ##
-# INTRODUCING <br>THE NEXT GENENERATION<br>AND FUTURE OF E-COMMERCE 
+## 🎥 Live stream technology  ##
+# INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE 
 ###### Last update<br>01-03-2022<br>
 
 ### [The live streaming selling platform](https://runash.github.io/runash-blog/2022/02/28/latest.html)
@@ -26,7 +26,7 @@ and manage live stream
 
 
 
-# Live streaming for retailing<br>
+# Live stream for sell and buy<br>
 Were unorganized organic retailers face-to-face demonstration and presentation their organic products with buyers<br>
 We have created new way to use physical reality selling and buying experience
 
