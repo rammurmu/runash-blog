@@ -1,8 +1,8 @@
 ---
-layout: page 
-title: 📺 Live Stream
-parmalink: /readme.md/
+title: 📺 Live Stream 
 --- 
+
+
 
 
 
