@@ -44,15 +44,16 @@ Change the nature and model of retaining
 
 [Learn more »](https://)
 
+### Let's try next generation technology and experience with your own physical reality <br>Get started live stream with runash
 | [Sign Up](https://) | [Sign In](https://) |
 
 
-### Get started live stream with runash 
 
-Retailers enable real-time check out [business solution](https://)<br>
-Buyers engage face-to-face check out [shopping solution](https://)<br>
-Grow your sales with own-made real selling experience <br>
-Let's try next generation real selling and shopping experience with your physical reality experience 
+
+
+
+
+
 
 
 ### Watch live stream and connect live with the nearest retailers ###
