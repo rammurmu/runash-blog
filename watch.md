@@ -42,11 +42,11 @@ To watch and connect live with the nearest retailers
 
 ``Fruit`` ``Groceries`` ``Bread`` ``Aurveyd`` ``Bakes``
 
- ``Green leaf`` ``Bakes``
+ ``Non veg`` ``Bakes`` ``Dry nuts`` ``See food`` ``Authentic spices``
 
-``Non veg``
+``Organic oil`` ``Flawar`` ``Plantner`` ``Handicraft`` ``Bamboomcraft``
 
- ``Dry nuts``
+ ``Khadi`` ``Agri product`` ``Furnishing`` ``Electronic`` ``Fashion``
 
 ``See food``
 
@@ -162,12 +162,13 @@ Organic Breads<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 
 [``About``](https://runash.in/about)  [``Contact``](https://runash.in/Contact)  [``Privacy``](https://runash.in/privacy) [``Help``](https://)  [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
 === 
-RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED <br>
+© 2022 RunAsh[^1]
+
 CIN U52590JH2021PTC016339.[^1] 
 
-©2021RunAsh[^1] 
+[^1]: ✍️ Write in India for World
 
-[^1]: Write in India for World  
+
 
 
 
