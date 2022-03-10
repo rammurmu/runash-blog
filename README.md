@@ -33,16 +33,16 @@ and manage live stream
 
 
 # 📺 Live stream for 🛒 real sell and 🛍️ real buy<br>
-Were unorganized organic retailers face-to-face demonstration and presentation <br>their organic products with buyers
-We have created new way to use physical reality selling and buying experience
+
 
 
 ### About 
 
-RunAsh is a live streaming hybrid platform and marketplace for retaining <br>
+RunAsh is a live streaming hybrid platform and marketplace for retaining
 We have create a new concept of real selling and buying interactive experience
-Change the nature and model of retaining<br> 
-[Learn more »](https://)<br>
+Change the nature and model of retaining 
+
+[Learn more »](https://)
 
 | [Sign Up](https://) | [Sign In](https://) |
 
