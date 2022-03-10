@@ -15,11 +15,11 @@
 ###### Last update<br>01-03-2022<br>
 
 [📽️ Live streaming for 💼 business](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
-Were retaiers face-to-face interactive demonstrate 
-and presented their products and services with buyers<br>
+Were retaiers face-to-face interactive demonstrate <br>
+and presented their product and services with buyers 
 
 [📽️ Live streaming for 🛍️ shopping](https://)<br>
-That lets buyer face-to-face interactive shopping with real experience
+Face-to-face interactive real shopping experience
 safe and secure  
 
 [🧑‍💻 Remote working at runash](https://)<br>
@@ -33,14 +33,14 @@ and manage live stream
 
 
 # 📺 Live stream for 🛒 real sell and 🛍️ real buy<br>
-Were unorganized organic retailers face-to-face demonstration and presentation their organic products with buyers<br>
+Were unorganized organic retailers face-to-face demonstration and presentation <br>their organic products with buyers
 We have created new way to use physical reality selling and buying experience
 
 
 ### About 
 
-RunAsh is a live streaming hybrid platform and marketplace for retaining 
-We've create a new concept of real selling and buying experience
+RunAsh is a live streaming hybrid platform and marketplace for retaining <br>
+We have create a new concept of real selling and buying interactive experience
 Change the nature and model of retaining<br> 
 [Learn more »](https://)<br>
 
@@ -49,13 +49,13 @@ Change the nature and model of retaining<br>
 
 ### Get started live stream with runash 
 
-You're a organic retailer enable real-time check out our [business solution](https://)<br>
-You're a organic retail products buyers engage face-to-face check out our [shopping solution](https://)<br>
-Grow your sales with own made real selling experience <br>
+Retailers enable real-time check out [business solution](https://)<br>
+Buyers engage face-to-face check out [shopping solution](https://)<br>
+Grow your sales with own-made real selling experience <br>
 Let's try next generation real selling and shopping experience with your physical reality experience 
 
 
-### To watch live stream and connect live with the nearest retailers ###
+### Watch live stream and connect live with the nearest retailers ###
 [Go live](https://)
 
 ### Reinventing and real experience ###
@@ -66,18 +66,19 @@ The way you experience traditional real selling and buying<br>
 We've connected you to the nearest buyer in your area verified by us [Verified✓](https://)<br>
 [Learn more](https://) 
 
-### Digital life easy life ###
-Bridging the gap between traditional retail commerce self-made face-to-face real selling and buying experience 
+
+
 
 ### Diffserve ###
-The promise of diffserve or differentiated high-quality live streaming services<br>
+Promise of diffserve or differentiated high-quality live streaming services<br>
+Bridging the gap between traditional retail commerce self-made face-to-face real sell & buy experience<br>
 [Learm more](https://)
 
 ### Real world's Rral Commerce ###
 Providing physical reality through virtual reality 
 
 ### Physical Reality (PR) ###
-We're create live streaming environment wher sellers can meet, showcase,demonstrate, and presentation 
+We are create live streaming environment wher sellers can meet, <br>showcase,demonstrate, and presentation 
 or display their organic product and services with buyers 
 
 ### HOW IT WORKS? ###
@@ -103,12 +104,12 @@ Build real selling and buying experience with <br>
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 # [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
 ***
-RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED<br>
+© 2022 RunAsh[^1] <br>
 CIN U52590JH2021PTC01639.[^1]
 
-© 2022 RunAsh,All Rights Reserved[^1]
-
 [^1]: ✍️ Write in India for World
+
+
 
 
 
