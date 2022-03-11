@@ -9,7 +9,7 @@ permalink: /help/
 # 🤷 How Can We Help You?
 ### Questions or Feedback?<br>
 If you have a general question about how starting runash live streaming
-works, first consult [this FAQ](https://)page,Which we keep up to date with the latest
+works, first consult [this FAQ](https://) page,Which we keep up to date with the latest
 questions.<br>
 <br>
 If you have a general question about runash that can benefit other users of the community,
@@ -19,8 +19,20 @@ If you have an individual technical issue, email us at admin@runash.in<br>
 <br>
 If you have other feedback, feel free to email us directly or fill out a feedback [form](https://)
 
+Choose a topic to help us route your request quickly 
 
+| 👤 Account Issues|
 
+| 🪙 Billing Issues |
+
+| Other Support |
+
+| 📝 Provide Feedback |
+
+| Help with runash |
+
+| Other questions about runash <br>
+Conet with expert on the runash |
 
 
 
