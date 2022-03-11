@@ -87,7 +87,7 @@ Create live stream take few steps <br>
   -  Step 2. Schedule live stream 
       - Step 3. [Go live](https://)
 
-Build real selling and buying experience with vertual reality through physical reality
+Build your own real selling and buying experience with vertual reality through physical reality
 
  
 
