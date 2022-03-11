@@ -44,7 +44,7 @@ Change the nature and model of retaining
 
 [Learn more »](https://)
 
-### Let's try next generation technology and experience with your own physical reality <br>Get started live stream with runash
+
 | [Sign Up](https://) | [Sign In](https://) |
 
 
@@ -55,13 +55,14 @@ Change the nature and model of retaining
 
 
 
-
-### Watch live stream and connect live with the nearest retailers ###
+### Lets try 
+Watch live stream and connect live with retailers<br>
 [Go live](https://)
 
-### Reinventing and real experience ###
-We're committed to rethinking and building new way to use physical reality (PR) <br>
+### Reinventing real experience with physical reality ###
+We're committed to rethinking and building new way to use physical reality (PR) and create live streaming environment where retailers can meet, showcase, demonstrate, and presentation or display their product with buyers<br>
 [Learn more](https://)
+### Get started
 We help you get started and make real selling and buying on a daily basis<br>
 The way you experience traditional real selling and buying<br>
 We've connected you to the nearest buyer in your area verified by us [Verified✓](https://)<br>
@@ -78,9 +79,7 @@ Bridging the gap between traditional retail commerce self-made face-to-face real
 ### Real world's Rral Commerce ###
 Providing physical reality through virtual reality 
 
-### Physical Reality (PR) ###
-We are create live streaming environment wher sellers can meet, <br>showcase,demonstrate, and presentation 
-or display their organic product and services with buyers 
+
 
 ### HOW IT WORKS? ###
 Create live stream take few steps <br>
