@@ -62,7 +62,7 @@ Watch live stream and connect live with retailers<br>
 ### Reinventing real experience with physical reality ###
 We're committed to rethinking and building new way to use physical reality (PR) and create live streaming environment where retailers can meet, showcase, demonstrate, and presentation or display their product with buyers<br>
 [Learn more](https://)
-### Get started
+### Get started live stream on runash 
 We help you get started and make real selling and buying on a daily basis<br>
 The way you experience traditional real selling and buying<br>
 We've connected you to the nearest buyer in your area verified by us [Verified✓](https://)<br>
@@ -76,8 +76,8 @@ Promise of diffserve or differentiated high-quality live streaming services<br>
 Bridging the gap between traditional retail commerce self-made face-to-face real sell & buy experience<br>
 [Learm more](https://)
 
-### Real world's Rral Commerce ###
-Providing physical reality through virtual reality 
+
+
 
 
 
