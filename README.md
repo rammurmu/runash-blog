@@ -40,12 +40,12 @@ and manage live stream
 
 RunAsh is a live streaming hybrid platform and marketplace for retaining
 We have create a new concept of real selling and buying interactive experience
-Change the nature and model of retaining 
+and change the nature and model of retaining 
 
 [Learn more »](https://)
 
 
-| [Sign Up](https://) | [Sign In](https://) |
+| [Sign Up »](https://) | [Sign In »](https://) |
 
 
 
@@ -57,16 +57,16 @@ Change the nature and model of retaining
 
 ### Lets try 
 Watch live stream and connect live with retailers<br>
-[Go live](https://)
+[Go live »](https://)
 
 ### Reinventing real experience with physical reality ###
 We're committed to rethinking and building new way to use physical reality (PR) and create live streaming environment where retailers can meet, showcase, demonstrate, and presentation or display their product with buyers<br>
-[Learn more](https://)
+[Learn more »](https://)
 ### Get started live stream on runash 
 We help you get started and make real selling and buying on a daily basis<br>
 The way you experience traditional real selling and buying<br>
 We've connected you to the nearest buyer in your area verified by us [Verified✓](https://)<br>
-[Learn more](https://) 
+[Learn more »](https://) 
 
 
 
@@ -74,7 +74,7 @@ We've connected you to the nearest buyer in your area verified by us [Verified�
 ### Diffserve ###
 Promise of diffserve or differentiated high-quality live streaming services<br>
 Bridging the gap between traditional retail commerce self-made face-to-face real sell & buy experience<br>
-[Learm more](https://)
+[Learm more »](https://)
 
 
 
@@ -85,7 +85,7 @@ Bridging the gap between traditional retail commerce self-made face-to-face real
 Create live stream take few steps <br>
 - Step 1. Create Account 
   -  Step 2. Schedule live stream 
-      - Step 3. [Go live](https://)
+      - Step 3. [Go live »](https://)
 
 Build your own real selling and buying experience with vertual reality through physical reality
 
