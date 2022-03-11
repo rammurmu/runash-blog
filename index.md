@@ -7,10 +7,17 @@ permalink: /home/
 ### 👏 Welcome to RunAsh family ! 
 # INTRODUCING <br>THE NEXT GENERATION <br>AND FUTURE OF E-COMMERCE
 ###### Last update<br>01-03-2022 
+| Lasted stream <br> Live <br>Category<br>Vegetables<br>Location |
 
 
 
+| Live now<br>By Demo store<br>Category<br>Fruit <br> Location|
 
+| Live now<br>By Demo store<br>Category<br>Groceries<br> Location |
+
+| Live now<br>By Demo store<br>Category<br>Dairy food <br>Location |
+
+| Live now <br>By Demo store<br>Category<br>Green leaf <br>Location |
 
 
 
@@ -18,10 +25,10 @@ permalink: /home/
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream 
 [``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Help``](https://) [``FAQ``](https://) [``Blog``](https://) [``LIVE Stream``](https://) [``Watch Live``](https://)
-=== 
-RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED <br>
+
+© 2022 RunAsh.[^1]<br>
 CIN U52590JH2021PTC06399.[^1]
 
-© 2022 RunAsh,All Rights Reserved [^1] 
-
 [^1]: ✍️ Write in India for World
+
+
