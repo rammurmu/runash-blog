@@ -76,7 +76,10 @@ Promise of diffserve or differentiated high-quality live streaming services<br>
 Bridging the gap between traditional retail commerce self-made face-to-face real sell & buy experience<br>
 [Learm more »](https://)
 
-
+- [ x ] Safe 
+- [ X ] Trusted 
+- [ X ] Traditional 
+- [ X ] Real Experience
 
 
 
