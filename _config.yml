@@ -35,7 +35,7 @@ url: runash.in
 #twitter_username: runashstartup # DO NOT include the @ character, or else the build will fail!
 github_username:  runash # DO NOT include the @ character, or else the build will fail!
 
-#Build setting
+show_excerpts: true #set to false to remove excerpts on the homepage 
 
 
 
@@ -47,4 +47,4 @@ github_username:  runash # DO NOT include the @ character, or else the build wil
 
 
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+
