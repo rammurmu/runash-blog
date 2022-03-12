@@ -218,7 +218,7 @@ You can review the most current version of the terms of services at any time at 
 Question about the Terms of Services should be sent to us at <br>[admin@runash.in](admin@runash.in)
 
 © 2021 RunAsh <br>
-CIN U52590JH2021PTC06399
+CIN U52590JH2021PTC06399<br>
 ✍️ Write on India for Worlds 
 
   
