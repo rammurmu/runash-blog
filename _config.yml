@@ -24,7 +24,14 @@ description: A live streaming hybrid marketplace for retailing "runash.in:"
 #baseurl: runash.in
 #url: runash.in
 
- 
+#Build setting
+plugins:
+-jekyll-feed 
+default:
+-scope:
+path: "assets/img"
+values:
+image: true
   
 
 
@@ -33,7 +40,7 @@ description: A live streaming hybrid marketplace for retailing "runash.in:"
 
 # social links
 #twitter_username: runashstartup # DO NOT include the @ character, or else the build will fail!
-github_username:  runash # DO NOT include the @ character, or else the build will fail!
+github_username:  RunAsh # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true #set to false to remove excerpts on the homepage 
 
