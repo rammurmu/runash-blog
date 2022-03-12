@@ -36,7 +36,7 @@ url: runash.in
 github_username:  runash # DO NOT include the @ character, or else the build will fail!
 
 #Build setting
-markdown: kramdown 
+
 
 
 
