@@ -76,7 +76,7 @@ Promise of diffserve or differentiated high-quality live streaming services<br>
 Bridging the gap between traditional retail commerce self-made face-to-face real sell & buy experience<br>
 [Learm more »](https://)
 
-- [ x ] Safe 
+- [ X ] Safe 
 - [ X ] Trusted 
 - [ X ] Traditional 
 - [ X ] Real Experience
@@ -106,11 +106,11 @@ Build your own real selling and buying experience with vertual reality through p
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 # [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
-***
-© 2022 RunAsh[^1] <br>
-CIN U52590JH2021PTC01639.[^1]
 
-[^1]: ✍️ Write in India for World
+© 2022 RunAsh<br>
+CIN U52590JH2021PTC01639<br>
+✍️ Write in India for Worlds
+
 
 
 
