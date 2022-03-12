@@ -12,7 +12,7 @@ permalink: /faq/
 
 We have included some frequently asked questions are commonly started in runash.im 
 
-| What is runash live stream? |
+| What is runash live stream? <details>summary>click</summary><p>Welcome</p></details> |
 
 | How to started runash live stream? |
 
@@ -24,11 +24,11 @@ We have included some frequently asked questions are commonly started in runash.
 
 # [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
 
-***
 
-© 2022 RunAsh[^1] <br>
 
-CIN U52590JH2021PTC01639.[^1]
+© 2022 RunAsh<br>
+CIN U52590JH2021PTC01639<br>
+✍️ Write in India for Worlds
 
-[^1]: ✍️ Write in India for World
+
 
