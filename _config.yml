@@ -37,14 +37,14 @@ github_username:  runash # DO NOT include the @ character, or else the build wil
 
 #Build setting
 markdown: kramdown 
-plugins: 
--jekylly-feed 
-defaults:
--scope:
-path: "project" 
-type: "page"
-path: "assets/img"
-values:
-image: true 
+
+
+
+
+
+
+
+
+
 
 show_excerpts: true # set to false to remove excerpts on the homepage
