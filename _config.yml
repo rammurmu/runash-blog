@@ -21,8 +21,8 @@ description: A live streaming hybrid marketplace for retailing "runash.in:"
                
           
  
-  baseurl: "runash.in" 
-  url: runash.in
+baseurl: runash.in
+url: runash.in
 
  
   
@@ -41,9 +41,10 @@ plugins:
 -jekylly-feed 
 defaults:
 -scope:
-  path: "project" 
-  type: "page"
-  path: "assets/img"
+path: "project" 
+type: "page"
+path: "assets/img"
 values:
-image: true
+image: true 
+
 show_excerpts: true # set to false to remove excerpts on the homepage
