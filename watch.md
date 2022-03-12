@@ -19,7 +19,7 @@ permalink: /watch.md/
 
 - [🧑‍💻 REMOTELY WORKING AT RUNASH ](https://)
 
-# INTRODUCING <br>THE NEXT GENERATION <br>AND FUTURE OF E-COMMERCTECHNOLOGY
+# INTRODUCING <br>THE NEXT GENERATION <br>AND FUTURE OF E-COMMERC TECHNOLOGY
 
 LIVE STREAMING FOR RETAILING<br>
 To watch and connect live with the nearest retailers 
@@ -161,12 +161,12 @@ Organic Breads<br>Schedule live streaming<br>Free<br>[Go Live](https://)|
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
 
 [``About``](https://runash.in/about)  [``Contact``](https://runash.in/Contact)  [``Privacy``](https://runash.in/privacy) [``Help``](https://)  [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
-=== 
-© 2022 RunAsh[^1]
 
-CIN U52590JH2021PTC016339.[^1] 
+© 2022 RunAsh<br>
+CIN U52590JH2021PTC016339<br>
+✍️ Write in India for Worlds
 
-[^1]: ✍️ Write in India for World
+
 
 
 
