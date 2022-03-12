@@ -24,14 +24,14 @@ description: A live streaming hybrid marketplace for retailing "runash.in:"
 #baseurl: runash.in
 #url: runash.in
 
-#Build setting
-plugins:
--jekyll-feed 
-default:
--scope:
-path: "assets/img"
-values:
-image: true
+
+
+
+
+
+
+
+
   
 
 
