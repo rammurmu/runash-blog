@@ -25,14 +25,26 @@ Choose a topic to help us route your request quickly
 
 | 🪙 Billing Issues |
 
-| Other Support |
+|  🧺 Cart Issues |
+
+| 🛍️ Shopping Issues |
+
+| 🛒 Selling Issues |
+
+| 📽️ Live Streaming Issues |
+
+| 📺Watch live streaming Issues |
 
 | 📝 Provide Feedback |
 
-| Help with runash |
+| 🤷 Help with runash |
+
+| 👫 Influencer Issues |
+
+| ⚙️ Other support |
 
 | Other questions about runash <br>
-Conet with expert on the runash |
+[Conet with expert on the runash](https://) |
 
 
 
@@ -61,3 +73,7 @@ Conet with expert on the runash |
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
 [``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Help``](https://) [``FAQ``](https://) [``Blog``](https://) [``Watch Live``](https://) [``Go Live``](https://) 
+
+© 2022 RunAsh<br>
+CIN U52590JH2021PTC016399<br>
+✍️ Write in India for Worlds
