@@ -13,11 +13,11 @@ permalink: /watch.md/
 
 ###### Latest Update <br>01-03-2022 ######
 
-- [📽️ LIVE STREAM FOR  💼 BUSINESS](https://)
+- [LIVE STREAM FOR BUSINESS](https://)
 
-- [📽️ LIVE STREAM FOR 🛒 SHOPPING](https://)
+- [LIVE STREAM FOR SHOPPING](https://)
 
-- [🧑‍💻 REMOTELY WORKING AT RUNASH ](https://)
+- [REMOTELY WORKING AT RUNASH ](https://)
 
 # INTRODUCING <br>THE NEXT GENERATION <br>AND FUTURE OF E-COMMERC TECHNOLOGY
 
