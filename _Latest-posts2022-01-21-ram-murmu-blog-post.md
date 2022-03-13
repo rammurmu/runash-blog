@@ -1,10 +1,10 @@
 ---
 
-title: "✍️RunAsh Blog"
+title: "✍️ New Era of Web Blog"
 
-date: 🗓️2022-01-21
+date: 🗓️2022-01-01
 ---
-The next generation eCommerce technology and real experience latest blog update posts
+The introducing next generation eCommerce technology and real experience latest blog update posts
 
 Live streaming<br>
 Written by <br> Ram Murmu<br>
