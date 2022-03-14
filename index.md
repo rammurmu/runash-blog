@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default.md 
 title: home 
 Permalink: /home/
 --- 
