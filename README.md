@@ -31,7 +31,7 @@ Live influencer community were you can support businesses
 
 
 
-### 📺 LIVE STREAMING FOR 🛒 SELLING AND 🛍️ BUYING
+### 📺 LIVE STREAM FOR 🛒 SELLING AND 🛍️ BUYING
 
 
 
@@ -44,9 +44,12 @@ and change the nature and model of retaining
 [Learn more »](https://)
 
 ### Get started live streaming on runash 
+
 | [Sign Up »](https://) | [Sign In »](https://) |
 
-We help you get started and make real selling and buying on a daily basis, the way you experience traditional real seller and buying,we have connected you to the nearest buyers in your are verified by us [VERIFIED✓](https://)<br>[Learn more »](https://)
+We help you get started and make own real selling and buying on a daily basis, the way you experience traditional real selling and buying,we have connected you to the nearest buyers in your area verified by us [VERIFIED✓](https://)<br>
+
+[Learn more »](https://)
 
 
 
@@ -54,13 +57,16 @@ We help you get started and make real selling and buying on a daily basis, the w
 
 
 
-### Lets go started 
-Watch live stream and connect live with retailers<br>
+### Lets go started watching live on runash
+Watching live video on demand stream and connect live with retailers<br>
+
 [Go live »](https://)
 
 ### Reinventing real experience with physical reality ###
 We're committed to rethinking and building new way to use physical reality (PR) and create live streaming environment where retailers can meet, showcase, demonstrate, and presentation or display their product with buyers<br>
+
 [Learn more »](https://)
+
 
 
 
@@ -73,6 +79,7 @@ We're committed to rethinking and building new way to use physical reality (PR) 
 ### Diffserve ###
 Promise of diffserve or differentiated high-quality live streaming services<br>
 Bridging the gap between traditional retail commerce self-made face-to-face real sell & buy experience<br>
+
 [Learm more »](https://)
 
 - [ X ] Safe 
