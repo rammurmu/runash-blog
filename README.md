@@ -11,20 +11,20 @@
 
 ### 👏 Welcome to RunAsh family ! ###
 ## [``🎥 LETS GO LIVE NOW ``](https://)  ##
-# INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE 
+### INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE TECHNOLOGY
 ###### Last update<br>01-03-2022<br>
 
-[Live streaming for retail businesses](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
+[LIVE STREAMING FOR RETAIL BUSINESSES](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
 Were retailers can sell their products with real-time own made real selling experience 
  
-[Live streaming for organics products shopping](https://)<br>
+[LIVE STREAMING FOR ORGANIC PRODUCTS SHOPPING](https://)<br>
 Were buyers can shop organic products with own real life shopping and bargaining experience
 
 
-[Remote working at runash](https://)<br>
+[REMOTE WORKING ON RUNASH](https://)<br>
 Learn and works from the worlds best founder knowledge and experience
 
-[Live streaming as an influencer](https://)<br>
+[LIVE STREAMING AS AN INFLUENCER](https://)<br>
 Live influencer community were you can support businesses
 
 
