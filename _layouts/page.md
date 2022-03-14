@@ -1,8 +1,9 @@
 --- 
-layout: default.md
-title: home 
-parmalink: /home/
+layout: default 
 --- 
+
+
+
 - [ ] Turn on GitHub Pages
 
 - [ ] Outline my portfolio
