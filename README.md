@@ -11,7 +11,7 @@
 
 ### 👏 Welcome to RunAsh family ! ###
 ## [``🎥 LETS GO LIVE NOW ``](https://)  ##
-### INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE TECHNOLOGY
+### INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE<br> BUSINESS,TECHNOLOGY, SOCIETY
 ###### Last update<br>01-03-2022<br>
 
 [LIVE STREAMING FOR RETAIL BUSINESSES](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
@@ -31,7 +31,7 @@ Live influencer community were you can support businesses
 
 
 
-# 📺 Live stream for 🛒 real selling and 🛍️ real buying<br>
+### 📺 LIVE STREAMING FOR 🛒 SELLING AND 🛍️ BUYING
 
 
 
@@ -43,10 +43,10 @@ and change the nature and model of retaining
 
 [Learn more »](https://)
 
-
+### Get started live streaming on runash 
 | [Sign Up »](https://) | [Sign In »](https://) |
 
-
+We help you get started and make real selling and buying on a daily basis, the way you experience traditional real seller and buying,we have connected you to the nearest buyers in your are verified by us [VERIFIED✓](https://)<br>[Learn more »](https://)
 
 
 
@@ -61,11 +61,11 @@ Watch live stream and connect live with retailers<br>
 ### Reinventing real experience with physical reality ###
 We're committed to rethinking and building new way to use physical reality (PR) and create live streaming environment where retailers can meet, showcase, demonstrate, and presentation or display their product with buyers<br>
 [Learn more »](https://)
-### Get started live stream on runash 
-We help you get started and make real selling and buying on a daily basis<br>
-The way you experience traditional real selling and buying<br>
-We've connected you to the nearest buyer in your area verified by us [Verified✓](https://)<br>
-[Learn more »](https://) 
+
+
+
+
+
 
 
 
