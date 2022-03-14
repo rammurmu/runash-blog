@@ -17,7 +17,7 @@ theme: minima
 title: RunAsh 
 author: admin@runash.in
 #email: admin@runash.in
-
+layout: default 
 description: A live streaming marketplace for retailing "runash.in:"
                
           
