@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: default 
+title: home 
+Permalink: /home/
 --- 
 
 {% include 01-name.md %}
