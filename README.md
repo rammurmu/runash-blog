@@ -115,7 +115,7 @@ Build your own real selling and buying experience with vertual reality through p
 
 © 2022 RunAsh<br>
 CIN U52590JH2021PTC01639<br>
-✍️ Writte in India for Worlds
+✍️ Written in India for Worlds
 
 
 
