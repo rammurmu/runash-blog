@@ -1,5 +1,7 @@
 --- 
-layout: default 
+layout: page 
+title: home 
+permalink: /about/
 --- 
 
 
