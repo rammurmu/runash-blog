@@ -1,4 +1,6 @@
-#Welcome to runash 
+--- 
+layout: default 
+--- 
 
 
 
