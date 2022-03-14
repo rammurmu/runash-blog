@@ -82,10 +82,23 @@ Bridging the gap between traditional retail commerce self-made face-to-face real
 
 [Learm more »](https://)
 
-- [ X ] Safe 
-- [ X ] Trusted 
-- [ X ] Traditional 
-- [ X ] Real Experience
+- [x] SIMPLE
+
+- [x] EASY
+
+- [x] SAFE
+
+ - [x] TRUSTED @runash, #livestream, [links](url), **with**, and <del>PHYSICAL REALITY</del>.
+
+- [x] TRADITIONAL 
+
+     - COMMERCE TRADING !
+
+- [x] REAL EXPERIENCE 
+
+- [x] PHYSICAL REALITY .
+
+
 
 
 
@@ -118,6 +131,146 @@ CIN U52590JH2021PTC01639<br>
 ✍️ Written in India for Worlds
 
 
+- [ ] CATEGORY 
+- [ ] All CATEGORIES
+
+
+
+- [ ] :point_down: _SEE ALL ORGANIC PRODUCTS
+
+- [ ] CATEGORY<details>
+
+ <summary>CATEGORY</summary>
+
+  - [ ] ALL CATEGORIES
+
+  - [ ] :sparkles:
+  - [ ] :stuck_out_tongue_winking_eye:
+  - [ ] working with remote teams ✅.
+  - [ ] :heart:
+lko
+
+
+  Here are some organic popular products 
+
+  | What you see | What you type |
+
+  | ---------- | ------------ |
+
+  | :heart:    | `:heart:`    |
+
+  | :+1:       | `:+1:`       |
+
+  | :smile:    | `:smile:`    |
+
+  | :sparkles: | `:sparkles:` |
+
+  | :tada:     | `:tada:`     |
+
+  [see this handy cheat sheet](https://gist.github.com/rxaviers/7360908). live `:` 
+
+  ![image of fuzzy search emojis on GitHub](https://user-images.githubusercontent.com/9906718/34602228-47cab148-f1ff-11e7-91f1-56d0fed702f0.png)
+
+  <hr>
+
+</details>
+
+<details>
+
+  <summary>STREAMING TYPES</summary>
+
+  - [ ] ALL STREAMING TYPES
+
+- [ ] [formatting and syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) in the _GitHub Help_.
+
+  ```
+
+  1. Item 1
+
+  2. Item 2
+
+  3. Item 3
+
+     1. Item 3a
+
+     2. Item 3b
+
+  ```
+
+  1. Item 1
+
+  2. Item 2
+
+  3. Item 3
+
+     1. Item 3a
+
+     2. Item 3b
+
+ <hr>
+
+</details>
+
+<details>
+
+ <summary>WATCHING TYPES</summary>
+
+  - [ ] ALL WATCHING TYPES
+
+  - [ ] The
+
+ - [ ] `-`
+ - [ ] or 
+ - [ ] `*` , 
+
+  ```
+
+  * Item 1
+
+  * Item 2
+
+    * Item 2a
+
+    * Item 2b
+
+  ```
+
+  * Item 1
+
+  * Item 2
+
+    * Item 2a
+
+    * Item 2b
+
+  <hr>
+
+</details>
+
+### Adding new streaming
+
+Here are 
+
+- [ ] :Live Mesia Type: 
+
+- [ ] All Media Type
+
+- [ ] Live Stream
+
+- [ ] Watching Live Stream
+- [ ] Podcast
+- [ ] Blog
+
+<hr>
+
+<h3 align="center">Watch below for my response!</h3>
+
+
+
+
+
+
+ 
 
 
 
