@@ -1,5 +1,5 @@
 --- 
-layout: page 
+layout: default.md
 title: home 
 parmalink: /home/
 --- 
