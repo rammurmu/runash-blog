@@ -14,32 +14,31 @@
 # INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE 
 ###### Last update<br>01-03-2022<br>
 
-[Live streaming for business](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
-Were retaiers face-to-face interactive demonstrate <br>
-and presented their product and services with buyers 
+[Live streaming for retail businesses](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
+Were retailers can sell their products with real-time own made real selling experience 
+ 
+[Live streaming for organics products shopping](https://)<br>
+Were buyers can shop organic products with own real life shopping and bargaining experience
 
-[Live streaming for shopping](https://)<br>
-Face-to-face interactive real shopping experience
-safe and secure  
 
 [Remote working at runash](https://)<br>
-Apply to your dream job 
+Learn and works from the worlds best founder knowledge and experience
 
 [Live streaming as an influencer](https://)<br>
-Influencers can get started live streaming on RunAsh,helps create, capture 
-and manage live stream  
+Live influencer community were you can support businesses
 
 
 
 
-# 📺 Live stream for 🛒 real sell and 🛍️ real buy<br>
+
+# 📺 Live stream for 🛒 real selling and 🛍️ real buying<br>
 
 
 
 ### About 
 
-RunAsh is a live streaming hybrid platform and marketplace for retaining
-We have create a new concept of real selling and buying interactive experience
+RunAsh is a live streaming hybrid platform and marketplace for retaining.
+We have create a new concept of real selling and buying experience
 and change the nature and model of retaining 
 
 [Learn more »](https://)
@@ -109,7 +108,7 @@ Build your own real selling and buying experience with vertual reality through p
 
 © 2022 RunAsh<br>
 CIN U52590JH2021PTC01639<br>
-✍️ Write in India for Worlds
+✍️ Writte in India for Worlds
 
 
 
