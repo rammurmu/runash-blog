@@ -131,24 +131,30 @@ CIN U52590JH2021PTC01639<br>
 ✍️ Written in India for Worlds
 
 
-- [ ] CATEGORY 
-- [ ] All CATEGORIES
+- [x] CATEGORY 
+- [x] All CATEGORIES
 
 
 
-- [ ] :point_down: _SEE ALL ORGANIC PRODUCTS
+- [x] 👇 SEE ALL ORGANIC PRODUCTS
 
-- [ ] CATEGORY<details>
+<details>
 
  <summary>CATEGORY</summary>
 
-  - [ ] ALL CATEGORIES
+  - [x] ALL CATEGORIES
 
-  - [ ] :sparkles:
-  - [ ] :stuck_out_tongue_winking_eye:
-  - [ ] working with remote teams ✅.
-  - [ ] :heart:
-lko
+  - [x] 🍎 Fruit
+  - [x] 🥕 Vegetable 
+  - [x] 🍗 Meat
+  - [x] 🥩 See food 
+  - [x] 🥀 Flower
+  - [x] 💃 Women fashion
+  - [x] 🕺 Man fashion
+  - [x] 🐕‍🦺 Dogs 
+  - [x] 🐈Pets 
+  - [x] 🐔 Birds
+
 
 
   Here are some organic popular products 
@@ -157,15 +163,15 @@ lko
 
   | ---------- | ------------ |
 
-  | :heart:    | `:heart:`    |
+  | : Fruit:    | `: Apple:` `Banana`    |
 
-  | :+1:       | `:+1:`       |
+  | : Vegetable | `Tomato` `Pateo`      |
 
-  | :smile:    | `:smile:`    |
+  | :Meat:    | `: Chicken:` `Matan`   |
 
-  | :sparkles: | `:sparkles:` |
+  | :Dairy food: | `:Butter:` `Milk`|
 
-  | :tada:     | `:tada:`     |
+  | :See food:     | `:Fish:`     |
 
   [see this handy cheat sheet](https://gist.github.com/rxaviers/7360908). live `:` 
 
@@ -179,33 +185,35 @@ lko
 
   <summary>STREAMING TYPES</summary>
 
-  - [ ] ALL STREAMING TYPES
+  - [x] ALL STREAMING TYPES
 
-- [ ] [formatting and syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) in the _GitHub Help_.
+[formatting and syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 
 
+ 
   ```
 
-  1. Item 1
+  1. Item 1🥛
 
-  2. Item 2
+  2. Item 2🧉
 
-  3. Item 3
+  3. Item 3🥕
 
-     1. Item 3a
+     1. Item 3a🍋
 
-     2. Item 3b
+     2. Item 3b🥦
 
   ```
+ 
 
-  1. Item 1
+  1. Item 1🍎
 
-  2. Item 2
+  2. Item 2🥔
 
-  3. Item 3
+  3. Item 3🍋
 
-     1. Item 3a
+     1. Item 3a🥦
 
-     2. Item 3b
+     2. Item 3b🥕
 
  <hr>
 
@@ -217,31 +225,33 @@ lko
 
   - [ ] ALL WATCHING TYPES
 
-  - [ ] The
+  - [ ] 🥔
 
- - [ ] `-`
- - [ ] or 
- - [ ] `*` , 
-
-  ```
-
-  * Item 1
-
-  * Item 2
-
-    * Item 2a
-
-    * Item 2b
+ - [ ] `-` 🥛
+ - [ ] 🍎 
+ - [ ] `*` 🥫
 
   ```
+ 
 
-  * Item 1
+  * Item 1🥩
 
-  * Item 2
+  * Item 2🥀
 
-    * Item 2a
+    * Item 2a💃
 
-    * Item 2b
+    * Item 2b🕺
+
+  ```
+ 
+
+  * Item 1 🐈
+
+  * Item 2🐔
+
+    * Item 2a🐇
+
+    * Item 2b🐕‍🦺
 
   <hr>
 
@@ -251,7 +261,7 @@ lko
 
 Here are 
 
-- [ ] :Live Mesia Type: 
+- [ ] :Live Media Type: 
 
 - [ ] All Media Type
 
