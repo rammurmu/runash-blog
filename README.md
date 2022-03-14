@@ -11,7 +11,7 @@
 
 ### 👏 Welcome to RunAsh family ! ###
 ## [``🎥 LETS GO LIVE NOW ``](https://)  ##
-### INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE<br> BUSINESS,TECHNOLOGY, SOCIETY
+### INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE
 ###### Last update<br>01-03-2022<br>
 
 [LIVE STREAMING FOR RETAIL BUSINESSES](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
@@ -31,7 +31,7 @@ Live influencer community were you can support businesses
 
 
 
-### 📺 LIVE STREAM FOR 🛒 SELLING AND 🛍️ BUYING
+### 📺 LIVE STREAM FOR 🛒 REAL SELL AND 🛍️ REAL BUY
 
 
 
