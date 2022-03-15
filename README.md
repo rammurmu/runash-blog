@@ -51,8 +51,8 @@ We help you get started and make own real selling and buying on a daily basis, t
 
 [Learn more »](https://)
 
-<br>
-<br>
+
+
 
 
 
@@ -63,16 +63,16 @@ Watching live video on demand stream and connect live with retailers<br>
 
 [Go live »](https://)
 
-<br>
-<br>
+
+
 
 ### Reinventing real experience with physical reality ###
 We're committed to rethinking and building new way to use physical reality (PR) and create live streaming environment where retailers can meet, showcase, demonstrate, and presentation or display their product with buyers<br>
 
 [Learn more »](https://)
 
-<br>
-<br>
+
+
 
 
 
@@ -87,8 +87,12 @@ Bridging the gap between traditional retail commerce self-made face-to-face real
 
 [Learm more »](https://)
 
-<br>
-<br>
+- [x] [SAFE](url)
+- [x] [TRUSTED](url) 
+- [x] [TRADITIONAL](url)
+- [x] [REAL SELLING AND BUYING](url)
+- [x] [OWN-MADE PHYSICAL REALITY EXPERIENCE](url)
+
 
 
 
@@ -111,8 +115,8 @@ Create live stream take few steps <br>
   -  Step 2. Schedule live stream 
       - Step 3. [Go live »](https://)
 
-<br>
-<br>
+
+
 
 
  
@@ -127,8 +131,8 @@ Create live stream take few steps <br>
 |----------------------|------------------------|
 |📝 [Give feedback »](https://) | 📨 Email address [Subscribe »](https://) |
 
-<br>
-<br>
+
+
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 # [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
