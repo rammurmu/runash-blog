@@ -36,9 +36,11 @@ Live influencer community were you can support businesses
 
 
 
-| ![alttex](assets/confetti.jpg) |<br>
+| ![alttex](assets/confetti.jpg) |
+
 === 
-| RunAsh Store<br>By Ram Murmu<br>Location<br>Description:A live streaming hybrid platform and marketplace for retailing<br> ``Schedule`` ``Live Stream`` ``Free`` ``Watching`` ``Location`` ``MRP`` ``Size Chart`` |
+
+| RunAsh Store<br>By Ram Murmu<br>Location<br>Description:A live streaming platform <br> ``Schedule`` ``Live Stream`` ``Free`` ``Watching`` ``Location`` ``MRP`` ``Size Chart`` |
 
 ### About
 RunAsh is a live streaming hybrid platform and marketplace for retaining.
