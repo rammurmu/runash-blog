@@ -144,15 +144,24 @@ CIN U52590JH2021PTC01639<br>
 
   - [x] ALL CATEGORIES
 
-  - [x] 🍎 Fruit
+  - [x] 🍎 Fruit 
+ 
   - [x] 🥕 Vegetable 
-  - [x] 🍗 Meat
+ 
+  - [x] 🍗 Meat 
+ 
   - [x] 🥩 See food 
-  - [x] 🥀 Flower
-  - [x] 💃 Women fashion
-  - [x] 🕺 Man fashion
+ 
+  - [x] 🥀 Flower 
+ 
+  - [x] 💃 Women fashion 
+ 
+  - [x] 🕺 Man fashion 
+ 
   - [x] 🐕‍🦺 Dogs 
+ 
   - [x] 🐈Pets 
+ 
   - [x] 🐔 Birds
 
 
@@ -164,14 +173,19 @@ CIN U52590JH2021PTC01639<br>
   | ---------- | ------------ |
 
   | : Fruit:    | `: Apple:` `Banana`    |
+ 
 
   | : Vegetable | `Tomato` `Pateo`      |
+ 
 
   | :Meat:    | `: Chicken:` `Matan`   |
+ 
 
   | :Dairy food: | `:Butter:` `Milk`|
+ 
 
   | :See food:     | `:Fish:`     |
+ 
 
   [see this handy cheat sheet](https://gist.github.com/rxaviers/7360908). live `:` 
 
@@ -228,7 +242,9 @@ CIN U52590JH2021PTC01639<br>
   - [ ] 🥔
 
  - [ ] `-` 🥛
+ 
  - [ ] 🍎 
+ 
  - [ ] `*` 🥫
 
   ```
@@ -267,8 +283,10 @@ Here are
 
 - [ ] Live Stream
 
-- [ ] Watching Live Stream
-- [ ] Podcast
+- [ ] Watching Live Stream 
+
+- [ ] Podcast 
+
 - [ ] Blog
 
 <hr>
