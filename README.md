@@ -31,7 +31,7 @@ Live influencer community were you can support businesses
 
 
 
-### 📺 LIVE STREAM FOR 🛒 SELL & 🛍️ BUY
+### 📺 LIVE STREAM FOR 🛒 REAL SELL AND 🛍️ REAL BUY
 
 
 
@@ -126,7 +126,7 @@ Create live stream take few steps <br>
 
 
 
-
+Buils your own made selling and buying experience with runash!
 | Give your feedback to create a real experience ✨|Sign up weekly update from RunAsh ✨ |
 |----------------------|------------------------|
 |📝 [Give feedback »](https://) | 📨 Email address [Subscribe »](https://) |
