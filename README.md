@@ -82,21 +82,17 @@ Bridging the gap between traditional retail commerce self-made face-to-face real
 
 [Learm more »](https://)
 
-- [x] SIMPLE
 
-- [x] EASY
 
-- [x] SAFE
 
- - [x] TRUSTED @runash, #livestream, [links](url), **with**, and <del>PHYSICAL REALITY</del>.
 
-- [x] TRADITIONAL 
 
-     - COMMERCE TRADING !
 
-- [x] REAL EXPERIENCE 
 
-- [x] PHYSICAL REALITY .
+
+    
+
+
 
 
 
