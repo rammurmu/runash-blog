@@ -1,6 +1,6 @@
 ---
 
-title: "✍️ New Era of Web Blog"
+title: "✍️ LIVE STREAM BLOG"
 
 date: 🗓️2022-01-01
 ---
