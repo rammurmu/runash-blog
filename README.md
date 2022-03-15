@@ -131,167 +131,35 @@ CIN U52590JH2021PTC01639<br>
 ✍️ Written in India for Worlds
 
 
-- [x] CATEGORY 
-- [x] All CATEGORIES
-
-
-
-- [x] 👇 SEE ALL ORGANIC PRODUCTS
-
-<details>
-
- <summary>CATEGORY</summary>
-
-  - [x] ALL CATEGORIES
-
-  - [x] 🍎 Fruit 
- 
-  - [x] 🥕 Vegetable 
- 
-  - [x] 🍗 Meat 
- 
-  - [x] 🥩 See food 
- 
-  - [x] 🥀 Flower 
- 
-  - [x] 💃 Women fashion 
- 
-  - [x] 🕺 Man fashion 
- 
-  - [x] 🐕‍🦺 Dogs 
- 
-  - [x] 🐈Pets 
- 
-  - [x] 🐔 Birds
-
-
-
-  Here are some organic popular products 
-
-  | What you see | What you type |
-
-  | ---------- | ------------ |
-
-  | : Fruit:    | `: Apple:` `Banana`    |
  
 
-  | : Vegetable | `Tomato` `Pateo`      |
+
+  
  
 
-  | :Meat:    | `: Chicken:` `Matan`   |
- 
 
-  | :Dairy food: | `:Butter:` `Milk`|
- 
+    
 
-  | :See food:     | `:Fish:`     |
- 
-
-  [see this handy cheat sheet](https://gist.github.com/rxaviers/7360908). live `:` 
-
-  ![image of fuzzy search emojis on GitHub](https://user-images.githubusercontent.com/9906718/34602228-47cab148-f1ff-11e7-91f1-56d0fed702f0.png)
-
-  <hr>
-
-</details>
-
-<details>
-
-  <summary>STREAMING TYPES</summary>
-
-  - [x] ALL STREAMING TYPES
-
-[formatting and syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 
+   
 
  
-  ```
-
-  1. Item 1🥛
-
-  2. Item 2🧉
-
-  3. Item 3🥕
-
-     1. Item 3a🍋
-
-     2. Item 3b🥦
-
-  ```
  
 
-  1. Item 1🍎
+  
 
-  2. Item 2🥔
+  
 
-  3. Item 3🍋
+   
 
-     1. Item 3a🥦
+    
 
-     2. Item 3b🥕
 
- <hr>
 
-</details>
 
-<details>
 
- <summary>WATCHING TYPES</summary>
 
-  - [ ] ALL WATCHING TYPES
 
-  - [ ] 🥔
 
- - [ ] `-` 🥛
- 
- - [ ] 🍎 
- 
- - [ ] `*` 🥫
-
-  ```
- 
-
-  * Item 1🥩
-
-  * Item 2🥀
-
-    * Item 2a💃
-
-    * Item 2b🕺
-
-  ```
- 
-
-  * Item 1 🐈
-
-  * Item 2🐔
-
-    * Item 2a🐇
-
-    * Item 2b🐕‍🦺
-
-  <hr>
-
-</details>
-
-### Adding new streaming
-
-Here are 
-
-- [ ] :Live Media Type: 
-
-- [ ] All Media Type
-
-- [ ] Live Stream
-
-- [ ] Watching Live Stream 
-
-- [ ] Podcast 
-
-- [ ] Blog
-
-<hr>
-
-<h3 align="center">Watch below for my response!</h3>
 
 
 
