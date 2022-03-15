@@ -1,6 +1,6 @@
 ---
 
-title: "✍️ LIVE STREAM BLOG"
+title: "✍️ LIVE STREAMING BLOG"
 
 date: 🗓️2022-01-01
 ---
