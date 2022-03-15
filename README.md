@@ -31,7 +31,7 @@ Live influencer community were you can support businesses
 
 
 
-### 📺 LIVE STREAM FOR 🛒 SELLING AND 🛍️ BUYING
+### 📺 LIVE STREAM FOR 🛒 SELL & 🛍️ BUY
 
 
 
@@ -51,7 +51,8 @@ We help you get started and make own real selling and buying on a daily basis, t
 
 [Learn more »](https://)
 
-
+<br>
+<br>
 
 
 
@@ -62,12 +63,16 @@ Watching live video on demand stream and connect live with retailers<br>
 
 [Go live »](https://)
 
+<br>
+<br>
+
 ### Reinventing real experience with physical reality ###
 We're committed to rethinking and building new way to use physical reality (PR) and create live streaming environment where retailers can meet, showcase, demonstrate, and presentation or display their product with buyers<br>
 
 [Learn more »](https://)
 
-
+<br>
+<br>
 
 
 
@@ -82,7 +87,8 @@ Bridging the gap between traditional retail commerce self-made face-to-face real
 
 [Learm more »](https://)
 
-
+<br>
+<br>
 
 
 
