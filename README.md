@@ -31,7 +31,7 @@ Live influencer community were you can support businesses
 
 
 
-### 📺 LIVE STREAM FOR 🛒 REAL SELL AND 🛍️ REAL BUY
+### 📺 LIVE STREAM FOR 🛒 SELLING AND 🛍️ BUYING
 
 
 
@@ -105,7 +105,9 @@ Create live stream take few steps <br>
   -  Step 2. Schedule live stream 
       - Step 3. [Go live »](https://)
 
-Build your own real selling and buying experience with vertual reality through physical reality
+<br>
+<br>
+<br>
 
  
 
@@ -118,6 +120,9 @@ Build your own real selling and buying experience with vertual reality through p
 | Give your feedback to create a real experience ✨|Sign up weekly update from RunAsh ✨ |
 |----------------------|------------------------|
 |📝 [Give feedback »](https://) | 📨 Email address [Subscribe »](https://) |
+
+<br>
+<br>
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 # [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
