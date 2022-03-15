@@ -91,7 +91,7 @@ Bridging the gap between traditional retail commerce self-made face-to-face real
 - [x] [TRUSTED](url) 
 - [x] [TRADITIONAL](url)
 - [x] [REAL SELLING AND BUYING](url)
-- [x] [OWN-MADE PHYSICAL REALITY EXPERIENCE](url)
+- [x] [PHYSICAL REALITY EXPERIENCE](url)
 
 
 
@@ -126,7 +126,8 @@ Create live stream take few steps <br>
 
 
 
-Buils your own made selling and buying experience with runash!
+Build your own made selling and buying experience with runash!<br>
+
 | Give your feedback to create a real experience ✨|Sign up weekly update from RunAsh ✨ |
 |----------------------|------------------------|
 |📝 [Give feedback »](https://) | 📨 Email address [Subscribe »](https://) |
