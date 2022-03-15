@@ -35,9 +35,10 @@ Live influencer community were you can support businesses
 
 
 
-### About 
-![alttex](assets/confetti.jpg)
 
+| ![alttex](assets/confetti.jpg) |
+
+### About
 RunAsh is a live streaming hybrid platform and marketplace for retaining.
 We have create a new concept of real selling and buying experience
 and change the nature and model of retaining 
