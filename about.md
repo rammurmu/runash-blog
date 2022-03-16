@@ -24,6 +24,15 @@ A live streaming hybrid platform and marketplace for retailing<br>
 WHAT WE DO<br>
 We created new model of marketplace were retailers face-to-face meet,showcase,demonstrate,and presentation their products with buyers <br>WHAT WE GOING TO MAKING<br>we are commite to building live streaming open source software and new ways to use physical reality experience <br>WHAT WE DOES<br>Currently,Indias 73% unorganized retail businesses don't enable online selling,but the existing solution is doesn't fulfill to needs, to obtain their own made,real selling experience,a trusted traditional commerce model, because doesn't exist live streaming marketplace <br>WHAT WE WILL DO<br>Retailers now can use face to face,contactless,own made,trusted,and real selling experience 
 
+### RunAsh Purpose 
+Why runash exit -
+
+Why can we solve this better than anyone else ?
+
+
+Why does this problem need to be solved now ?
+
+
 
 
 
@@ -81,7 +90,7 @@ Many companies operating in the same market space selling similar products. We c
 - The perfect market real market is imperfect 
 - Leverage advantage in surrounding market
 - Asymmetry faster than competitors,at lower cost 
-- Fast mover being #1🥇
+- Fast mover being #1
 
 
 
@@ -105,8 +114,8 @@ Innovation Driven Entrepreneur (IDE)
 🎓 The single most important element of our business model is the management team responsible for making the live retail streaming platform. immediate market-specific knowledge, and experience in implementing the business plans. &amp; changing the nature of retailing &amp; redefine the business mode<br>
 [📚 Learn more »](https://)
 
-🧑‍🏫 FOUNDER 🎤 STORY 🐢JOURNEY 🚣<br>
- Journey from a 🏞️ small village in 🇮🇳 India to 🇺🇸 Sillicone Valley 🌉 Y Combinator startup school community member
+🧑‍🏫 FOUNDER STORY AND JOURNEY <br>
+ Journey from a small village in India to Sillicone Valley Y Combinator startup school community member
 
 [Learn more »](https://)
 
@@ -115,7 +124,8 @@ Innovation Driven Entrepreneur (IDE)
 Our business journey started in 2007 from a small offline retail store, The Journey from the School Classroom to the Board Room
 
 ### Backed by
-###### Open Source Supporters 
+Open Source Supporters 
+
 [MIT](https://) [GITHUB](https://github.com) [Y COMBINATOR](https://ycombinator.com) [STARTUP SCHOOL](https://) [HACKER NEWS](https://)
 
 
@@ -125,10 +135,10 @@ Our business journey started in 2007 from a small offline retail store, The Jour
 
 ## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream 
 [``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Help``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://) 
-=== 
-RUNASH DIGITAL INNOVATION TECHNOLOGIES PRIVATE LIMITED<br>
-CIN U52590JH2021PTC016399.[^1]
 
-© 2022 RunASh,All Rights Reserved[^1]
+© 2022 RunAsh<br>
+CIN U52590JH2021PTC016399<br>
+✍️ Written in India for Worlds
+
 
 [^1]: ✍️ Write in India for World 
