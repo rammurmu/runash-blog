@@ -31,7 +31,7 @@ Live influencer community were you can support businesses
 
 
 
-### 📺 LIVE STREAM FOR 🛒 REAL SELL AND 🛍️ REAL BUY
+### 📺 LIVE STREAMING FOR REAL SELLING AND BUYING 
 
 
 
