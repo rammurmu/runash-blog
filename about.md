@@ -25,7 +25,7 @@ WHAT WE DO<br>
 We created new model of marketplace were retailers face-to-face meet,showcase,demonstrate,and presentation their products with buyers <br>WHAT WE GOING TO MAKING<br>we are commite to building live streaming open source software and new ways to use physical reality experience <br>WHAT WE DOES<br>Currently,Indias 73% unorganized retail businesses don't enable online selling,but the existing solution is doesn't fulfill to needs, to obtain their own made,real selling experience,a trusted traditional commerce model, because doesn't exist live streaming marketplace <br>WHAT WE WILL DO<br>Retailers now can use face to face,contactless,own made,trusted,and real selling experience 
 
 ### RunAsh Purpose 
-Why runash exit -
+Why @runash exit -
 
 Why can we solve this better than anyone else ?
 
