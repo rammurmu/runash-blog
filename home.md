@@ -8,10 +8,21 @@ permalink: /live/
 # INTRODUCING <br>THE NEXT GENERATION <br>AND FUTURE OF E-COMMERCE
 ###### Last update<br>01-03-2022 
 
+
+| ![altex](assets/confetti.jpg) |
+| RunAsh Store<br>By Ram Murmu<br>Location<br>Description:A live streaming platform <br> ``Schedule`` ``Live Stream`` ``Free`` ``Watching`` ``Location`` ``MRP`` ``Size Chart`` |
+
+
+| ![altex](assets/confetti.jpg) |
+| RunAsh Store<br>By Ram Murmu<br>Location<br>Description:A live streaming platform <br> ``Schedule`` ``Live Stream`` ``Free`` ``Watching`` ``Location`` ``MRP`` ``Size Chart`` |
+
+
+
+
 | Lasted stream <br> Live <br>Category<br>Vegetables<br>Location <br>Schedule a live stream <br>
 <details><summary>Schedule Live</summary>
   <p>Go Live</p>
-  </details>|
+  </details> |
 
 
 
