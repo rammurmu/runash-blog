@@ -65,7 +65,7 @@ We help you get started and make own real selling and buying on a daily basis, t
 
 
 
-### Lets go started watching live on runash
+### Lets getting started watching live on runash
 Watching live video on demand stream and connect live with retailers<br>
 
 [Go live »](https://)
@@ -88,8 +88,8 @@ We're committed to rethinking and building new way to use physical reality (PR) 
 
 
 
-### Diffserve ###
-Promise of diffserve or differentiated high-quality live streaming services<br>
+### The Promise Diffserve ###
+Differentiated high-quality live streaming services<br>
 Bridging the gap between traditional retail commerce self-made face-to-face real sell & buy experience<br>
 
 [Learm more »](https://)
@@ -116,7 +116,7 @@ Bridging the gap between traditional retail commerce self-made face-to-face real
 
 
 
-### HOW IT WORKS? ###
+### HOW DOES RUNASH LIVE STREAMING WORKS ? ###
 Create live stream take few steps <br>
 - Step 1. Create Account 
   -  Step 2. Schedule live stream 
@@ -133,13 +133,14 @@ Create live stream take few steps <br>
 
 
 
-Build your own made selling and buying experience with runash!<br>
-
-| Give your experience and help us improve runash & create real experience ✨<br>📝 [Submit your valuable feedback »](url) |
 
 
 
-| Sign up weekly update from runash ✨ <br>📨 Email address*[Subscribe »](url) |
+| Give your experience & help us improve runash & create real experience ✨<br>📝 [Submit your valuable feedback »](url) |<br>
+| Sign up weekly update from runash live streaming ✨ <br>📨 Email address*[Subscribe »](url) |
+
+
+
 
 
 
