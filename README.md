@@ -88,17 +88,17 @@ We're committed to rethinking and building new way to use physical reality (PR) 
 
 
 
-### The Promise Diffserve ###
+### The promise diffserve ###
 Differentiated high-quality live streaming services<br>
 Bridging the gap between traditional retail commerce self-made face-to-face real sell & buy experience<br>
 
 [Learm more »](https://)
 
-- [SAFE](url)
-- [TRUSTED](url) 
-- [TRADITIONAL](url)
-- [REAL SELLING AND BUYING](url)
-- [PHYSICAL REALITY EXPERIENCE](url)
+- [Safe](url)
+- [Trusted](url) 
+- [Traditional](url)
+- [Interactive 1-1 real experience ](url)
+- [Physical reality experience ](url)
 
 
 
@@ -136,7 +136,7 @@ Create live stream take few steps <br>
 
 
 
-| Give your experience & help us improve runash & create real experience ✨<br>📝 [Submit your valuable feedback »](url) |
+| Giveing your feedback to mprove runash & create real experience ✨<br>📝 [Submit your valuable feedback »](url) |
 
 | Sign up weekly update from runash live streaming ✨ <br>📨 Email address*[Subscribe »](url) |
 
