@@ -31,7 +31,7 @@ Live influencer community were you can support businesses
 
 
 
-### 📺 LIVE STREAMING FOR REAL SELLING AND BUYING 
+### 📺 Live streaming for own maade real selling and buying experience
 
 
 
@@ -116,7 +116,7 @@ Bridging the gap between traditional retail commerce self-made face-to-face real
 
 
 
-### HOW DOES RUNASH LIVE STREAMING WORKS ? ###
+### How does runash live streaming work ? ###
 Create live stream take few steps <br>
 - Step 1. Create Account 
   -  Step 2. Schedule live stream 
@@ -136,7 +136,8 @@ Create live stream take few steps <br>
 
 
 
-| Give your experience & help us improve runash & create real experience ✨<br>📝 [Submit your valuable feedback »](url) |<br>
+| Give your experience & help us improve runash & create real experience ✨<br>📝 [Submit your valuable feedback »](url) |
+
 | Sign up weekly update from runash live streaming ✨ <br>📨 Email address*[Subscribe »](url) |
 
 
