@@ -40,7 +40,7 @@ Live influencer community were you can support businesses
 
 
 
-![altex](assets/confetti.jpg) 
+![altex](url) 
 
 
 ### About
