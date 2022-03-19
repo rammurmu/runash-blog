@@ -6,7 +6,7 @@ permalink: /help/
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
 
 
-# 🤷 How Can We Help You?
+## 🤷 How Can We Help You?
 ### Questions or Feedback?<br>
 If you have a general question about how starting runash live streaming
 works, first consult [this FAQ](https://) page,Which we keep up to date with the latest
@@ -21,9 +21,19 @@ If you have other feedback, feel free to email us directly or fill out a feedbac
 
 Choose a topic to help us route your request quickly 
 
-| 👤 Account Issues|
+| 👤 Account Issues
+<details><summary>Lear more<summary>
+<p>
+Create account few steps
+</p>
+</details> |
 
-| 🪙 Billing Issues |
+| 🪙 Billing Issues
+<details><summary>Learn more<summary>
+<p>
+Easy to pay your billing
+</p>
+<details> |
 
 |  🧺 Cart Issues |
 
