@@ -102,4 +102,7 @@ group :site do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jemoji"
+  gem "Jekyll"
+  gem  jekylly-plugins do
+  gem "jekylly-feed"
 end
