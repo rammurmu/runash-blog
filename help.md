@@ -21,19 +21,9 @@ If you have other feedback, feel free to email us directly or fill out a feedbac
 
 Choose a topic to help us route your request quickly 
 
-| 👤 Account Issues
-<details><summary>Lear more<summary>
-<p>
-Create account few steps
-</p>
-</details> |
+| 👤 Account Issues |
 
-| 🪙 Billing Issues
-<details><summary>Learn more<summary>
-<p>
-Easy to pay your billing
-</p>
-<details> |
+| 🪙 Billing Issues |
 
 |  🧺 Cart Issues |
 
@@ -56,34 +46,9 @@ Easy to pay your billing
 | Other questions about runash <br>
 [Conet with expert on the runash](https://) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
 [``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Help``](https://) [``FAQ``](https://) [``Blog``](https://) [``Watch Live``](https://) [``Go Live``](https://) 
 
 © 2022 RunAsh<br>
 CIN U52590JH2021PTC016399<br>
-✍️ Write in India for Worlds
+Written in India for Worlds
