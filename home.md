@@ -5,24 +5,38 @@ permalink: /live/
 --- 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream 
 ### 👏 Welcome to RunAsh family ! 
-# INTRODUCING <br>THE NEXT GENERATION <br>AND FUTURE OF E-COMMERCE
+## INTRODUCING <br>THE NEXT GENERATION <br>AND FUTURE OF E-COMMERCE
 ###### Last update<br>01-03-2022 
 
+<details><summary>CATEGORIES</summary>
+<P>
+All Categories<br>
+
+- [X] 🥦Vegetable
+
+- [x] 🍎Fruit
+
+- [x] 🥫Groceries
+
+</P>
+</details>
 
 | ![altex](assets/confetti.jpg) |
-| RunAsh Store<br>By Ram Murmu<br>Location<br>Description:A live streaming platform <br> ``Schedule`` ``Live Stream`` ``Free`` ``Watching`` ``Location`` ``MRP`` ``Size Chart`` |
+| RunAsh Fruit Store<br>By Ram Murmu<br>Location[Ranchi](url)<br>Description:A live streaming platform <br>MRP Free<br>Schedule live stream<br>Products ``Apple`` ``Banana`` ``Grapes`` ``Oranges`` ``Pomegranate`` ``Pinapple`` ``Mango`` [View more](url) |
 
 
 | ![altex](assets/confetti.jpg) |
-| RunAsh Store<br>By Ram Murmu<br>Location<br>Description:A live streaming platform <br> ``Schedule`` ``Live Stream`` ``Free`` ``Watching`` ``Location`` ``MRP`` ``Size Chart`` |
+| RunAsh Vegetable Store<br>By Ram Murmu<br>Location[Ranchi](url)<br>Description:A live streaming platform <br>MRP Free<br>Schedule live stream<details><summary>Calendar</summary><p>Date and Time</p></details><br>Products ``Cabbage`` ``Carrot`` ``Beetroot`` ``Broccoli`` ``Cauliflower`` ``Cucumber`` ``Mushroom`` [View more](url)|
 
 
 
 
 | Lasted stream <br> Live <br>Category<br>Vegetables<br>Location <br>Schedule a live stream <br>
 <details><summary>Schedule Live</summary>
-  <p>Go Live</p>
-  </details> |
+  <p>
+Go Live
+</p>
+</details> |
 
 
 
@@ -43,7 +57,7 @@ permalink: /live/
 
 © 2022 RunAsh<br>
 CIN U52590JH2021PTC06399<br>
-✍️ Write in India for World
+Write in India for World
 
 
 
