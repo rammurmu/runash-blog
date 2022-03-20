@@ -16,7 +16,7 @@
 
 
 
-remote_theme: jekyll-doc-theme@gh-pages   
+theme: github
 title: RunAsh 
 author: admin@runash.in
 #email: admin@runash.in
