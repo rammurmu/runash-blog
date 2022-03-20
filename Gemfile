@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gemspec :name => "jekyll"
 
 gem "rake", "~> 13.0"
-
+gem "github-page"
 group :development do
   gem "launchy", "~> 2.3"
   gem "pry"
@@ -93,7 +93,7 @@ group :jekyll_optional_dependencies do
 end
 
 #
-
+group: jekylly-plugins
 group :site do
   gem "html-proofer", "~> 3.4" if ENV["PROOF"]
 
