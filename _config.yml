@@ -13,11 +13,10 @@
 
 
 
-# Configure the remote_theme plugin with the gh-pages branch
-# or the specific tag
 
 
-remote_theme: aksakalli/jekyll-doc-theme@gh-pages   
+
+remote_theme: jekyll-doc-theme@gh-pages   
 title: RunAsh 
 author: admin@runash.in
 #email: admin@runash.in
