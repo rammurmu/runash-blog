@@ -1,52 +1,62 @@
+# Site settings
+title: Jekyll Doc Theme
+email: your-email@domain.com
+description: >
+  Jekyll Template for Project Websites
+  providing documentation and blog post pages.
+lang: en-US
 
+baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
+url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
+git_address: https://github.com/aksakalli/jekyll-doc-theme
+git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
+# theme options from https://bootswatch.com/3/
+# comment out this to use default Bootstrap
+bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
 
+# Build settings
+markdown: kramdown
+highlighter: rouge
+# Plugins (previously gems:)
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+  - vendor
+timezone: Europe/Berlin
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
 
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
 
-
-
-
-
-
-
-
-
-
-
-
-
-theme: minima
-title: RunAsh 
-author: admin@runash.in
-#email: admin@runash.in
- 
-description: A live streaming marketplace for retailing "runash.in:"
-               
-          
- 
-#baseurl: runash.in
-#url: runash.in
-
-
-
-
-
-
-
-
-
-  
-
-
-  
-
-
-# social links
-#twitter_username: runashstartup # DO NOT include the @ character, or else the build will fail!
-github_username:  RunAsh # DO NOT include the @ character, or else the build will fail!
-
-show_excerpts: true #set to false to remove excerpts on the homepage 
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true
 
 
 
