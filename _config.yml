@@ -2,10 +2,10 @@ theme: minima
 title: RunAsh.live
 author: © 2022 RunAsh.
 email: admin@runash.in
-description: > # A live retail streaming hybrid platform
+description: A live retail streaming hybrid platform
 
 # social links
-twitter_username: -runash_ # DO NOT include the @ character, or else the build will fail!
+twitter_username: runash_ # DO NOT include the @ character, or else the build will fail!
 github_username:  runash # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
