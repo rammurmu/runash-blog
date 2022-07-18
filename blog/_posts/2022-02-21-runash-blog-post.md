@@ -1,8 +1,8 @@
 ---
 
-title: "✍️ LIVE STREAMING BLOG"
+title: "✍️ Live streaming"
 
-date: 🗓️2022-01-01
+date: 2022-01-01
 ---
 The introducing next generation eCommerce technology and real experience latest blog update posts
 
