@@ -1,13 +1,13 @@
 ---
 theme: "minima"
 ---
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Blog
 ### 👏 Welcome to RunAsh! ###
 
 ### INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE
 
 
-[LIVE STREAMING FOR RETAIL BUSINESSES](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
+|[LIVE STREAMING FOR RETAIL BUSINESSES](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
 Where retailers meet to buyers and demonstrate, presentation their products on real experience 
  
 [LIVE STREAMING FOR ORGANIC PRODUCTS SHOPPING](https://)<br>
@@ -60,7 +60,7 @@ Create live stream take few steps <br>
 
 | Giveing your feedback to mprove and refine runash platform ✨<br>📝 [Submit your valuable feedback »](url) |
 
-| Sign up weekly updates from runash live streaming ✨ <br>📨 Email address*[Subscribe »](url) |
+| Sign up weekly updates from runash live streaming ✨ <br>📨 Email address*[Subscribe »](url) ||
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 # [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Live Stream``](https://) [``Watched Live``](https://)
