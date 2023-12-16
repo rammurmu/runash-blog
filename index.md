@@ -2,7 +2,10 @@
 theme: "minima"
 ---
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Blog
-### 👏 Welcome to RunAsh! ###
+<p aligned="centre">📝 RunAsh Blog</p>
+The latest news, announcement, article and guides about the live streaming from the runash remote team
+
+---
 
 ### INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE
 
@@ -19,8 +22,7 @@ Find the best startup remote jobs,curated by runash
 [LIVE STREAMING AS AN INFLUENCER](https://)<br>
 Live influencer community where you can support businesses
 ### 📺 Live streaming for own made real selling and buying experience
-## [``🎥Go Live``](https://)  ##
-![altex](url) 
+
 ### About
 RunAsh is a live streaming hybrid marketplace for retailing,We have create a new concept of real selling and buying on real experience and change the nature of retailing
 
@@ -63,11 +65,11 @@ Create live stream take few steps <br>
 | Sign up weekly updates from runash live streaming ✨ <br>📨 Email address*[Subscribe »](url) ||
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
-# [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Live Stream``](https://) [``Watched Live``](https://)
+# [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Watched ``](https://)
 
 © 2022 RunAsh<br>
 CIN U52590JH2021PTC01639<br>
-Written in India for Worlds
+Written in Bharat for Worlds
 
 
  
