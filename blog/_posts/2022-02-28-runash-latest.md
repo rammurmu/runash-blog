@@ -1,14 +1,14 @@
 ---
-title: 📽️ Getting started live 
-date: 2022-02-28
+title: 📽️ Introducing a live retail streaming platform 
+date: 2024-01-01
 --- 
 <details>
   <summary>CATEGORY</summary>
-  ALL CATEGORIES <br>
+  ALL POST <br>
   
--  🍓 FRUIT <br>
+''  🍓 Selles ''<br>
 
-- 🥦 VEGETABLE <br>
+'' 🥦 Buyers '' <br>
 
 - 🌻 FLOWER <br>
   
