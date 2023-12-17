@@ -7,11 +7,11 @@ The latest news, announcement, article and guides about the live streaming from 
 
 ---
 
-### INTRODUCING THE NEXTGENERATION AND FUTURE OF E-COMMERCE
+### Introducing the nextgeneration and future of e-commerce 
 
 
-| [LIVE STREAMING FOR RETAIL BUSINESSES](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
-Where retailers meet to buyers and demonstrate, presentation their products on real experience |
+[LIVE STREAMING FOR RETAIL BUSINESSES](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
+Where retailers meet to buyers and demonstrate, presentation their products on real experience 
  
 [LIVE STREAMING FOR ORGANIC PRODUCTS SHOPPING](https://)<br>
 Where buyers can shop organic products on real experience
