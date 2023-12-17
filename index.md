@@ -7,6 +7,8 @@ The latest news, announcement, article and guides about the live streaming from 
 
 ---
 
+
+
 ### INTRODUCING <br>THE NEXT GENERATION<br>AND FUTURE OF E-COMMERCE
 
 
@@ -48,28 +50,28 @@ Differentiated high-quality live streaming services,and bridging the gap between
 [Learm more »](https://)
 
 - [Safe](url)
-- [Trusted](url) 
-  - [Traditional](url)
-  - [Real interactive experience ](url)
-  - [Vertual reality to physical realty ](url)
+- [Trusted](url)
+- [Traditional](url)
+- [Real interactive experience](url)
+- [Vertual reality to physical realty ](url)
 
 ### How does runash works ? 
 
 Create live stream take few steps <br>
 - Step 1. Create Account 
-  -  Step 2. Schedule live stream 
-      - Step 3. [Go live »](https://)
+- Step 2. Schedule live stream 
+- Step 3. [Go live »](https://)
 
 | Giveing your feedback to mprove and refine runash platform ✨<br>📝 [Submit your valuable feedback »](url) |
 
 | Sign up weekly updates from runash live streaming ✨ <br>📨 Email address*[Subscribe »](url) ||
-
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
-# [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Watched ``](https://)
+Author 
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live 
+# [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Watch ``](https://)
 
 © 2022 RunAsh<br>
 CIN U52590JH2021PTC01639<br>
-Written in Bharat for Worlds
+
 
 
  
