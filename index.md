@@ -1,7 +1,7 @@
 ---
 theme: "minima"
 ---
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Blog
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) 
 <p aligned="centre">📝 RunAsh Blog</p>
 The latest news, announcement, article and guides about the live streaming from the runash remote team
 
@@ -10,17 +10,17 @@ The latest news, announcement, article and guides about the live streaming from 
 ### Introducing the nextgeneration and future of e-commerce 
 
 
-[LIVE STREAMING FOR RETAIL BUSINESSES](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
-Where retailers meet to buyers and demonstrate, presentation their products on real experience 
+|[LIVE STREAMING FOR RETAIL BUSINESSES](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
+Where retailers meet to buyers and demonstrate, presentation their products on real experience |
  
-[LIVE STREAMING FOR ORGANIC PRODUCTS SHOPPING](https://)<br>
-Where buyers can shop organic products on real experience
+|[LIVE STREAMING FOR ORGANIC PRODUCTS SHOPPING](https://)<br>
+Where buyers can shop organic products on real experience |
 
-[REMOTE WORKING ON RUNASH](https://)<br>
-Find the best startup remote jobs,curated by runash
+|[REMOTE WORKING ON RUNASH](https://)<br>
+Find the best startup remote jobs,curated by runash |
 
-[LIVE STREAMING AS AN INFLUENCER](https://)<br>
-Live influencer community where you can support businesses
+|[LIVE STREAMING AS AN INFLUENCER](https://)<br>
+Live influencer community where you can support businesses |
 ### Live streaming for own made real selling and buying experience
 
 ### About
@@ -66,7 +66,7 @@ Create live stream take few steps <br>
 
 `` ✍️Author ``
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live 
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) 
 # [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Watch ``](https://)
 
 © 2022 RunAsh<br>
