@@ -1,6 +1,6 @@
 ---
 title: 📽️ Introducing a live retail streaming platform 
-date: 2024-01-01
+date: 2022-02-22
 --- 
 <details>
   <summary>CATEGORY</summary>
