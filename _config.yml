@@ -1,11 +1,11 @@
 theme: minima
-title: RunAsh.Blog
-author: © 2022 RunAsh.
-email: admin@runash.in
+title: RunAsh Blog
+author: © 2022 RunAsh
+admin :
 description: A live retail streaming platform 
 
 # social links
-twitter_username: runash_ # DO NOT include the @ character, or else the build will fail!
+twitter_username:  # DO NOT include the @ character, or else the build will fail!
 github_username:  runash # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
