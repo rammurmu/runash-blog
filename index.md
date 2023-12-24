@@ -2,24 +2,25 @@
 theme: "minima"
 ---
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) 
-<p aligned="centre">📝 RunAsh Blog</p>
+<p aligned="centre">📝 Ram Murmu, Founder</p>
 The latest news, announcement, article and guides about the live streaming from the runash remote team
-
----
 
 ### Introducing the nextgeneration and future of e-commerce 
 
 
-|[LIVE STREAMING FOR RETAIL BUSINESSES](https://runash.github.io/runash-blog/2022/02/28/latest.html)<br>
+|[Become a retailer](https://runash.github.io/runash-blog/2022/02/28/latest.html)
+
 Where retailers meet to buyers and demonstrate, presentation their products on real experience |
  
-|[LIVE STREAMING FOR ORGANIC PRODUCTS SHOPPING](https://)<br>
+|[Become a buyer ](https://)
+
 Where buyers can shop organic products on real experience |
 
-|[REMOTE WORKING ON RUNASH](https://)<br>
+|[Remote work at runash](https://)
+
 Find the best startup remote jobs,curated by runash |
 
-|[LIVE STREAMING AS AN INFLUENCER](https://)<br>
+|[As an influencer](https://)<br>
 Live influencer community where you can support businesses |
 ### Live streaming for own made real selling and buying experience
 
@@ -60,21 +61,15 @@ Create live stream take few steps <br>
 - Step 2. Schedule live stream 
 - Step 3. [Go live »](https://)
 
-| Giveing your feedback to mprove and refine runash platform ✨<br>📝 [Submit your valuable feedback »](url) |
+| Giveing your valuable feedback to mprove and refine runash platform ✨
+📝 [Submit your valuable feedback »](url) |
 
-| Sign up weekly updates from runash live streaming ✨ <br>📨 Email address*[Subscribe »](url) |
+| Sign up weekly updates from runash live streaming ✨ 
+📨 Email address*[Subscribe »](url) |
 
 `` ✍️Author ``
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) 
-# [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Watch ``](https://)
-
-© 2022 RunAsh<br>
-CIN U52590JH2021PTC01639<br>
-
-
-
- 
 
 
   
