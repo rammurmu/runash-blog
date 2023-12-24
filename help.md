@@ -1,54 +1,50 @@
 ---
 layout: page 
-title: Help 
+title: 
 permalink: /help/ 
 --- 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
 
 
-## 🤷 How Can We Help You?
+ 🤷 How can we help you?
 ### Questions or Feedback?<br>
 If you have a general question about how starting runash live streaming
-works, first consult [this FAQ](https://) page,Which we keep up to date with the latest
+works, first consult [this FAQ](https://runash.in/faq) page,Which we keep up to date with the latest
 questions.<br>
 <br>
 If you have a general question about runash that can benefit other users of the community,
-please post it on the [furom](https://)<br>
+please post it on the [furom](https://runash.in/contact)<br>
 <br>
 If you have an individual technical issue, email us at admin@runash.in<br>
 <br>
-If you have other feedback, feel free to email us directly or fill out a feedback [form](https://)
+If you have other feedback, feel free to email us directly or fill out a feedback [form](https://runash.in/feedback)
 
 Choose a topic to help us route your request quickly 
 
-| 👤 Account Issues |
+| 👤 Account Issues [»](https://runash.in/help) |
 
-| 🪙 Billing Issues |
+| 🪙 Billing Issues [»](https://runash.in/help) |
 
-|  🧺 Cart Issues |
+|  🧺 Cart Issues [»](https://runash.in/help) |
 
-| 🛍️ Shopping Issues |
+| 🛍️ Shopping Issues [»](https://runash.in/help) |
 
-| 🛒 Selling Issues |
+| 🛒 Selling Issues [»](https://runash.in/help) |
 
-| 📽️ Live Streaming Issues |
+| 📽️ Live Streaming Issues [»](https://runash.in/help) |
 
-| 📺Watch live streaming Issues |
+| 📺Watch live stream Issues [»](https://runash.in/help) |
 
-| 📝 Provide Feedback |
+| 📝 Provide Feedback [»](https://runash.in/feedback) |
 
-| 🤷 Help with runash |
+| 🤷 Help with runash [»](https://runash.in/help) |
 
-| 👫 Influencer Issues |
+| 👫 Influencer Issues [»](https://runash.in/influencer) |
 
-| ⚙️ Other support |
+| ⚙️ Other support [»](https://runash.in/support) |
 
 | Other questions about runash <br>
-[Conet with expert on the runash](https://) |
+[Connect with expert on the runash](https://) |
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
-[``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Help``](https://) [``FAQ``](https://) [``Blog``](https://) [``Watch Live``](https://) [``Go Live``](https://) 
-
-© 2022 RunAsh<br>
-CIN U52590JH2021PTC016399<br>
-Written in India for Worlds
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live 
+[``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Watch``](https://) [``Live``](https://) 
