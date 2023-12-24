@@ -2,7 +2,7 @@
 
 title: "✍️ Introducing a live streaming platform ➡️"
 
-date: 2023-12-023
+date: 2022-02-21
 ---
 The introducing next generation and future of retailing and shopping technology and real experience
 
