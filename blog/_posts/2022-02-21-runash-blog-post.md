@@ -1,10 +1,12 @@
 ---
 
-title: "✍️ Live streaming"
+title: "✍️ Introducing a live streaming platform ➡️"
 
-date: 2022-01-01
+date: 2023-12-023
 ---
-The introducing next generation eCommerce technology and real experience latest blog update posts
+The introducing next generation and future of retailing and shopping technology and real experience
+
+[Red more ➡️](https)
 
 Live streaming<br>
 Written by <br> Ram Murmu<br>
@@ -17,10 +19,6 @@ You can find information below about each step of the account registration proce
 - [Influencer account](https://)
 - [Additional info](https://)
 - [Team](https://)
-
-Did this post help you 
-
-| 👍 | | 👎 | | 💛 |
 
 How to register: Getting your account set up<br>
 To register a runash account on runash.in or app, you'll need a buyer and seller account<br>
