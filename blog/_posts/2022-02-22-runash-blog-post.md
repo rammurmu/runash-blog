@@ -1,61 +1,56 @@
 ---
-title: 📽️ Introducing a live retail streaming platform 
+title: Product category 
 date: 2022-02-22
 --- 
 <details>
-  <summary>CATEGORY</summary>
-  ALL POST <br>
+  <summary>All categories</summary>
+  <br>
   
-''  🍓 Selles ''<br>
+``🍓 Selles``<br>
 
-'' 🥦 Buyers '' <br>
+``🥦 Buyers``<br>
 
-- 🌻 FLOWER <br>
+``🌻 FLOWER`` <br>
   
-- 🥫 GROCERY <br>
+``🥫 GROCERY`` <br>
   
-- 🥬 LEAF GREEN <br>
+``🥬 LEAF GREEN`` <br>
   
-- 🌰 DRY FRUIT <br>
+``🌰 DRY FRUIT`` <br>
 
--  🥜 NUT <br>
+``🥜 NUT`` <br>
 
--  🌶️ SPICES <br>
+``🌶️ SPICES`` <br>
   
-- 🍗 MEAT <br>
+``🍗 MEAT`` <br>
 
-- 🥩 SEE FOOD <br>
+``🥩 SEE FOOD`` <br>
 
-- 🍞 BREAD <br>
+``🍞 BREAD`` <br>
   
-- 🥪 BARGAR <br>
+``🥪 BARGAR`` <br>
 
--  🍨 ICE CREAM <br>
+``🍨 ICE CREAM`` <br>
 
--  🧁 CAKE <br>
+``🧁 CAKE`` <br>
   
--  🍾 COLD DRINK <br>
+``🍾 COLD DRINK`` <br>
 
--  🍕 PIZZA <br>
+``🍕 PIZZA`` <br>
 
--  🌻 FLOWER <br>
+``🌻 FLOWER`` <br>
   
--  🦮 ANIMAL <br>
+``🦮 ANIMAL`` <br>
 
--  🦜 BIRD <br>
+``🦜 BIRD`` <br>
 
--  🪴 PLANT <br>
-  
-  
-  
-  
+``🪴 PLANT`` <br>
   
   </details>
   
   <details>
-  <summary>SCHEDULE</summary>
-  
-  [CALENDAR](https://)
-  
+  <summary>Products</summary>
+    <br>
+   coming soon 
   </details>
 
