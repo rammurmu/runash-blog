@@ -14,7 +14,7 @@ questions.<br>
 <br>
 If you have a general question about runash that can benefit other users of the community,
 please post it on the <br>
-[furom](https://runash.in/contact)<br>
+[forum](https://runash.in/contact)<br>
 If you have an individual technical issue, email us at admin@runash.in<br>
 If you have other feedback, feel free to email us directly or fill out a feedback<br>
  [form](https://runash.in/feedback)
@@ -46,5 +46,5 @@ If you have other feedback, feel free to email us directly or fill out a feedbac
 | Other questions about runash <br>
 [Connect with expert on the runash](https://) |
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live 
-[``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Watch``](https://) [``Live``](https://) 
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) 
+[``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Watch``](https://) 
