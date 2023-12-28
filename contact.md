@@ -8,11 +8,10 @@ parmalink: /contact/
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) 
 
 ### 🤝 Contacting support 
-Last update<br>01-03-2022<br> 
 Before contacting us , please check the [frequently asked questions ](https://runash.in/faq)<br>
 Here are contact emails for different part of runash<br>
 Admin to direct write<br>[admin@runash.in](admin@runash.in)<br>
-Sales ecutive<br>[sales@runash.in](sales@runash.in)<br>
+Sales executive<br>[sales@runash.in](sales@runash.in)<br>
 Support executive<br>[Support@runash.in](support@runash.in)
 
 ### 🧑‍💻 Remote team ##
@@ -43,7 +42,6 @@ Open allay
 - [Instagram »](https://instagram.com/runash_)
             
 ### 🧑‍💻 Remote Work 
-
 Best startup jobs at runash
 Connect with remote team founders can reach you via email<br>
 [Join us](https://runash.im/work)
