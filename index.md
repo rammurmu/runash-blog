@@ -21,7 +21,7 @@ RunAsh is a live streaming hybrid marketplace for retailing,We have create a new
 ### Getting started live stream on runash 
  [``Sign Up »``](https://runash.in/signup) | [Sign In »](https://runash.in/login) 
 
-We help you get started and make own real selling and buying on a daily basis, the way you experience traditional real selling and buying,We have connected you to the nearest buyers in your areas<br> verified by us Verified✓(https://https://runash.in/)
+We help you get started and make own real selling and buying on a daily basis, the way you experience traditional real selling and buying,We have connected you to the nearest buyers in your areas<br> verified by us [Verified✓](https://https://runash.in/)
 
 [Learn more »](https://runash.in/blog)
 ### Lets getting watched live on demand 
