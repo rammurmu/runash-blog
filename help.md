@@ -1,25 +1,25 @@
 ---
 layout: page 
-title: 
+title: help
 permalink: /help/ 
 --- 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
 
 
- 🤷 How can we help you?
-### Questions or Feedback?<br>
+### 🤷 How can we help you?
+Questions or Feedback?<br>
 If you have a general question about how starting runash live streaming
 works, first consult [this FAQ](https://runash.in/faq) page,Which we keep up to date with the latest
 questions.<br>
 <br>
 If you have a general question about runash that can benefit other users of the community,
-please post it on the [furom](https://runash.in/contact)<br>
-<br>
+please post it on the <br>
+[furom](https://runash.in/contact)<br>
 If you have an individual technical issue, email us at admin@runash.in<br>
-<br>
-If you have other feedback, feel free to email us directly or fill out a feedback [form](https://runash.in/feedback)
+If you have other feedback, feel free to email us directly or fill out a feedback<br>
+ [form](https://runash.in/feedback)
 
-Choose a topic to help us route your request quickly 
+### Choose a topic to help us route your request quickly 
 
 | 👤 Account Issues [»](https://runash.in/help) |
 
