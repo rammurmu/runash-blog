@@ -1,6 +1,6 @@
 ---
 
-title: "✍️ Introducing to runash live streaming platform"
+title: "Introducing to runash live streaming platform"
 
 date: 2022-02-21
 ---
