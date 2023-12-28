@@ -1,6 +1,6 @@
 ---
 
-title: "How does work it?"
+title: "Become a buyer for shopping experience?"
 
 date: 2022-01-21
 
