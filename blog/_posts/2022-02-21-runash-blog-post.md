@@ -1,24 +1,24 @@
 ---
 
-title: "✍️ Introducing a live streaming platform ➡️"
+title: "✍️ Introducing to runash live"
 
 date: 2022-02-21
 ---
 The introducing next generation and future of retailing and shopping technology and real experience
 
-[Red more ➡️](https)
+[Red more ➡️](https//runash.in/blog)
 
 Live streaming<br>
 Written by <br> Ram Murmu<br>
 Founder & CEO <br>
 <br>
 You can find information below about each step of the account registration process<br>
-- [Getting your account set up](https://)
-- [Buyer account](https://) 
-- [Seller account](https://)
-- [Influencer account](https://)
-- [Additional info](https://)
-- [Team](https://)
+- [Getting your account set up](https://runash.in/signin)
+- [Buyer account](https://runash.in/buy) 
+- [Seller account](https://runash.in/sell)
+- [Influencer account](https://runash.in/influencer)
+- [Additional info](https://runash.in/blog)
+- [Team](https://runash.in/team)
 
 How to register: Getting your account set up<br>
 To register a runash account on runash.in or app, you'll need a buyer and seller account<br>
