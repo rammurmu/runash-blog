@@ -11,6 +11,7 @@ We have included some questions are commonly started in runash
 
 
 **What is runash live streaming ?**
+
 Runash is a live retail streming platform,where the retailers can meet to buyers and demonstrate their organic products
 
 
@@ -25,10 +26,10 @@ Runash is a live retail streming platform,where the retailers can meet to buyers
 ---
 
 
-**How to create runash account ?
+**How to create runash account ?**
   
 - First create a runash account
-- Setup straming
+- Setup streaming 
 - Go live
 
 
@@ -40,7 +41,7 @@ Runash is a live retail streming platform,where the retailers can meet to buyers
 - Seclect sell for live streaming  
 - Click setting and generate streaming key 
 - Download OBS studio 
-- Choose Web browsering and app options for competible device 
+- Choose web browser and app options for competible device 
   
 
 
@@ -68,38 +69,50 @@ Runash is a live retail streming platform,where the retailers can meet to buyers
 ---
 
 
- **How to work Influencer program ?**
+ **Runash live influencer program ?**
  
-  Influencer community is a runash retail straming supports 
+- Live influencer community here you can get support businesses
+- Runash has a open support community
+- Where you can ask for help and talk to people from around the world
+- Join the conversation on runash support team,when you follow someone on runash
+- You'll get nofication on your personal dashboard
+- Click follow on a person's profile page to follow them
 
 
 ---
 
 
-**How to Join remote work at runash ?**
+**How to Join work at runash ?**
 
-  Create a runash account and fill your details and upload your linkedin CV and summit 
+- Create a runash account
+- Fill your details
+- Upload your linkedin CV and summit 
+- Find the best startup jobs,curated by runash team
 
 
 ---
 
 
 **How to switch account ?**
-  Go to your dashboard and click setting section and switch your accort for business, influencer and individual
+
+- Go to your dashboard
+- Click setting section
+- Switch your accort for ``business``, ``influencer`` and ``individual``
  
 ---  
 
 
 **How to Install Android App ?**
- Go to Google Play and download runash App
+
+- Go to ``Google Play`` and download ``runash App``
   
 
 
 ---
 
-
-  **How to Install iSO App ?**
-  Go to Apple Store and download runash App
+**How to Install iSO App ?**
+  
+- Go to ``Apple Store`` and download ``runash App``
   
 
 
