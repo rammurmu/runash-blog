@@ -9,9 +9,9 @@ permalink: /faq/
 
 We have included some frequently asked questions are commonly started in runash.im 
 
-| What is runash live stream? 
-<details>
-  summary><p>Runash is a live retail streming platform, where the retail can meet to buyers and demonstrate their products</p></summary>
+| <details>
+<summary>What is runash live streaming ?</summary>
+Runash is a live retail streming platform,where the retailers can meet to buyers and demonstrate their organic products
 </details> |
 
 | How to started runash live stream? |
@@ -37,12 +37,5 @@ We have included some frequently asked questions are commonly started in runash.
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 
 # [``About``](https://runash.in/about)  [``Privacy``](https://runash.in/privacy) [``Help``](https://runash.in/help) [``Contact``](https://runash.in/contact) [``FAQ``](https://runash.in/faq) [``Watch Live``](https://runash.in/watch)
-
-
-
-© 2022 RunAsh<br>
-CIN U52590JH2021PTC01639<br>
-✍️ Write in India for Worlds
-
 
 
