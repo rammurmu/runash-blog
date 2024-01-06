@@ -59,7 +59,7 @@ Runash is a live retail streming platform,where the retailers can meet to buyers
 
 ---
 
-**How to work runash real shopping ? 
+**How to work runash real shopping ?**
   
 - First create a runash account 
 - Scheduled a live streaming  
