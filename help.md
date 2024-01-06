@@ -1,7 +1,6 @@
 ---
 layout: page 
-title: help
-permalink: /help/ 
+title: Help
 --- 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
 
@@ -9,7 +8,7 @@ permalink: /help/
 ### 🤷 How can we help you?
 Questions or Feedback?<br>
 If you have a general question about how starting runash live streaming
-works, first consult [this FAQ](https://runash.in/faq) page,Which we keep up to date with the latest
+works, first consult [this FAQ](https://runash.in/faq) page,which we keep up to date with the latest
 questions.<br>
 <br>
 If you have a general question about runash that can benefit other users of the community,
