@@ -16,7 +16,7 @@ A live retail streaming platform and marketplace
 We created new model of marketplace where retailers face-to-face meet,showcase,demonstrate,and presentation their products with buyers
 - <b>What we going to making ?<b/><br>we're commite to building live retail streaming platform and new ways to use physical reality experience 
 - <b>What we does ?</b><br>Currently,Indias 73% unorganized retail businesses don't enable online selling,but the existing solution is doesn't fulfill to needs, to obtain their own made,real selling experience,a trusted traditional commerce model, because doesn't exist live streaming marketplace 
-- <b>What we will do ?<b></br>Retailers now can use face to face,contactless,own made,trusted,and real selling experience 
+- <b>What we will do ?</b><br>Retailers now can use face to face,contactless,own made,trusted,and real selling experience 
 
 ### Purpose 
 - <b>Why @runash exit ?</b><br>We're committed to building new ways to use physics reality experience 
