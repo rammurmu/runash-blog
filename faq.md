@@ -18,21 +18,34 @@ Runash is a live retail streming platform,where the retailers can meet to buyers
 
 <details>
   <summary>How to started runash live streaming? </summary>
-  First create runash account and go your dashbord and live section gernerate your stream key for for demonstration
+  
+- First create runash runash account 
+- Go your dashbord live section and gernerate your stream key for live demonstration
+
 </details>
 
 ---
 
 <details>
   <summary>How to create runash account ? </summary>
-  First create account and setup straming and go live
+  
+- First create a runash account
+- Setup straming
+- Go live
+
 </details>
 
 ---
 
 <details>
   <summary>How to create business account? </summary>
-  First create and seclect sell for live and setting your streaming key and download OBS studio or web/app browsing options and  choose your device competibal
+  
+- First create runash business account 
+- Seclect sell for live streaming  
+- Click setting and generate streaming key 
+- Download OBS studio 
+- Choose Web browsering and app options for competible device 
+  
 </details>
 
 ---
@@ -51,6 +64,7 @@ Runash is a live retail streming platform,where the retailers can meet to buyers
 
 <details> 
   <summary>How to work runash real shopping ? </summary>
+  
 - First create a runash account 
 - Scheduled a live streaming  
 - Go live for real shopping experience 
@@ -82,7 +96,8 @@ Runash is a live retail streming platform,where the retailers can meet to buyers
 
 <details> 
   <summary>How to Install Android App ? </summary>
- Go to Google Play and download runash App 
+ Go to Google Play and download runash App
+  
 </details>
 
 ---
@@ -90,6 +105,7 @@ Runash is a live retail streming platform,where the retailers can meet to buyers
 <details> 
   <summary>How to Install iSO App ? </summary>
   Go to Apple Store and download runash App
+  
 </details>
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
