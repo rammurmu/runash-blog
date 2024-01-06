@@ -18,7 +18,9 @@ If you have an individual technical issue, email us at admin@runash.in<br>
 If you have other feedback, feel free to email us directly or fill out a feedback<br>
  [form](https://runash.in/feedback)
 
-### Choose a topic to help us route your request quickly 
+If you have any questions, problems or suggestions please don't hesitate to let us know 
+
+**Choose a topic to help us route your request quickly** 
 
 | 👤 Account Issues [»](https://runash.in/help) |
 
