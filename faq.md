@@ -9,36 +9,32 @@ permalink: /faq/
 
 We have included some questions are commonly started in runash
 
-<details>
-<summary>What is runash live streaming ?</summary>
+
+**What is runash live streaming ?**
 Runash is a live retail streming platform,where the retailers can meet to buyers and demonstrate their organic products
-</details> 
+
 
 ---
 
-<details>
-  <summary>How to started runash live streaming? </summary>
+**How to started runash live streaming?**
   
 - First create runash runash account 
 - Go your dashbord live section and gernerate your stream key for live demonstration
 
-</details>
 
 ---
 
-<details>
-  <summary>How to create runash account ? </summary>
+
+**How to create runash account ?
   
 - First create a runash account
 - Setup straming
 - Go live
 
-</details>
 
 ---
 
-<details>
-  <summary>How to create business account? </summary>
+**How to create business account?**
   
 - First create runash business account 
 - Seclect sell for live streaming  
@@ -46,69 +42,68 @@ Runash is a live retail streming platform,where the retailers can meet to buyers
 - Download OBS studio 
 - Choose Web browsering and app options for competible device 
   
-</details>
+
 
 ---
 
-<details>
-  <summary>How runash live streaming work ?</summary>
+
+**How runash live streaming work ?**
+
   Dashboard section click setting and set your streaming needs
 
 - Prive
 - Public
 - Defalt
 
-</details>
 
 ---
 
-<details> 
-  <summary>How to work runash real shopping ? </summary>
+**How to work runash real shopping ? 
   
 - First create a runash account 
 - Scheduled a live streaming  
 - Go live for real shopping experience 
   
-</details>
 
 ---
 
-<details> 
-  <summary>How to work Influencer program ? </summary>
+
+ **How to work Influencer program ?**
+ 
   Influencer community is a runash retail straming supports 
-</details>
+
 
 ---
 
-<details> 
-  <summary>How to Join remote work at runash ? </summary>
+
+**How to Join remote work at runash ?**
+
   Create a runash account and fill your details and upload your linkedin CV and summit 
-</details>
+
 
 ---
 
-<details> 
-  <summary>How to switch account ? </summary>
+
+**How to switch account ?**
   Go to your dashboard and click setting section and switch your accort for business, influencer and individual
- </details> 
  
 ---  
 
-<details> 
-  <summary>How to Install Android App ? </summary>
+
+**How to Install Android App ?**
  Go to Google Play and download runash App
   
-</details>
+
 
 ---
 
-<details> 
-  <summary>How to Install iSO App ? </summary>
+
+  **How to Install iSO App ?**
   Go to Apple Store and download runash App
   
-</details>
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
+
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
 
 # [``About``](https://runash.in/about)  [``Privacy``](https://runash.in/privacy) [``Help``](https://runash.in/help) [``Contact``](https://runash.in/contact) [``FAQ``](https://runash.in/faq) [``Watch``](https://runash.in/watch)
 
