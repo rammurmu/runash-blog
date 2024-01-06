@@ -10,8 +10,9 @@ permalink: /faq/
 We have included some frequently asked questions are commonly started in runash.im 
 
 | What is runash live stream? 
-<details>summary>Detail</summary>
-<p>Runash is a live retail streming platform, where the retail can meet to buyers and demonstrate their products</p></details> |
+<details>
+  summary><p>Runash is a live retail streming platform, where the retail can meet to buyers and demonstrate their products</p></summary>
+</details> |
 
 | How to started runash live stream? |
 
