@@ -36,6 +36,6 @@ Runash is a live retail streming platform,where the retailers can meet to buyers
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 
-# [``About``](https://runash.in/about)  [``Privacy``](https://runash.in/privacy) [``Help``](https://runash.in/help) [``Contact``](https://runash.in/contact) [``FAQ``](https://runash.in/faq) [``Watch Live``](https://runash.in/watch)
+# [``About``](https://runash.in/about)  [``Privacy``](https://runash.in/privacy) [``Help``](https://runash.in/help) [``Contact``](https://runash.in/contact) [``FAQ``](https://runash.in/faq) [``Watch``](https://runash.in/watch)
 
 
