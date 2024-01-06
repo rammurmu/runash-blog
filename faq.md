@@ -3,16 +3,15 @@ layout: page
 title:  FAQ 
 permalink: /faq/ 
 --- 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) 
 
-
-👏 Welcome to RunAsh family!
 # 📖 FREQUENTLY ASKED QUESTIONS 
-### RUNASH GUIDE 
 
 We have included some frequently asked questions are commonly started in runash.im 
 
-| What is runash live stream? <details>summary>click</summary><p>Welcome</p></details> |
+| What is runash live stream? 
+<details>summary>Detail</summary>
+<p>Runash is a live retail streming platform, where the retail can meet to buyers and demonstrate their products</p></details> |
 
 | How to started runash live stream? |
 
@@ -36,7 +35,7 @@ We have included some frequently asked questions are commonly started in runash.
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) Live Stream
 
-# [``About``](https://)  [``Privacy``](https://) [``Help``](https://) [``Contact``](https://) [``FAQ``](https://) [``Blog``](https://) [``Live Stream``](https://) [``Watch Live``](https://)
+# [``About``](https://runash.in/about)  [``Privacy``](https://runash.in/privacy) [``Help``](https://runash.in/help) [``Contact``](https://runash.in/contact) [``FAQ``](https://runash.in/faq) [``Watch Live``](https://runash.in/watch)
 
 
 
