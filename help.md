@@ -44,7 +44,7 @@ If you have other feedback, feel free to email us directly or fill out a feedbac
 | ⚙️ Other support [»](https://runash.in/support) |
 
 | Other questions about runash <br>
-[Connect with expert on the runash](https://) |
+[Connect with expert ](https://runash.in/contact) |
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png) 
-[``About``](https://) [``Privacy``](https://) [``Contact``](https://) [``Watch``](https://) 
+[``About``](https://runash.in/about) [``Privacy``](https://runash.in/privacy) [``Contact``](https://runash.in/contact) [``Watch``](https://runash.in/watch) 
