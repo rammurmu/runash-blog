@@ -3,7 +3,8 @@
 title: "Introducing to runash live streaming"
 
 date: 2022-02-21
-author: 🙋 @rammurmuu
+
+author: Post by <br>🙋 @rammurmuu<br>Founder & CEO,RunAsh
 ---
 The introducing next generation and future of selling and shopping technology and real experience
 
