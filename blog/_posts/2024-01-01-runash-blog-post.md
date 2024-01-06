@@ -4,7 +4,7 @@ title: "Introducing to runash live streaming"
 
 date: 2024-01-01
 
-author: Posted by 🙋 @rammurmu,Founder,RunAsh
+author: Posted by 🙋 @rammurmu
 ---
 ✍️ The introducing next generation and future of selling and shopping technology and real experience
 
