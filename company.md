@@ -36,93 +36,82 @@ was filed on-, with an authorized share capital of 100000 and its paid-up capita
 | Company Status(for efiling) | Active |
 
 >Share Capital Information
+>
+| Authorised Capital | ₹ 1,00,000 |
+|---|---|
+| Paid up Capital | ₹ 1,00,000 |
+| Number of Members | (Applicable in case of company |
+| without Share Capital) | 0 |
 
-Authorised Capital ₹ 1,00,000
 
-Paid up Capital ₹ 1,00,000
-
-Number of Members(Applicable in case of company
-
-without Share Capital)
-
-0
-
->Listing & Annual Information
-
+**Listing & Annual Information** <br>
 Whether Listed or not Unlisted
 
-Date of last AGM -
+**Date of last AGM** <br>
+2024
 
-Date of Balance Sheet -
+**Date of Balance Sheet** <br>
+2021-2024
 
-Address other than R/o where all or any books of
+**Address other than R/o where all or any books of account and papers are maintained** <br>
+C/O Ram Murmu Manjhladih Post Balidih PS Balidih North Gorabali Bokaro Jharkhand Bharat 827014
 
-account and papers are maintained
+**Suspended at stock exchange** <br>
+Not registered 
 
--
+**Principal Business Activity** <br>
+Retail trade,except of motor vehicles and motorcycles,repair of personal & household goods
 
-Suspended at stock exchange -
-
-Principal Business Activity Retail trade,except of motor vehicles and
-
-motorcycles,repair of personal&household goods
-
->Charge Details
-
+**Charge Details** <br>
 No charge details exists for this company.
 
->Contact Information
 
+
+>Contact Information<br>
 Email Id admin@runash.in
 
-Registered Office Address C/o Ram Murmu Manjhaladih Post Balidih PS
-
-Balidih North Gorabali Bokaro Bokaro JH 827014 IN
+>Registered Office Address <br>C/o Ram Murmu Manjhaladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro JH 827014 IN
 
 **FAQ's**
 
 >What is the CIN of the company?
-
-U52590JH2021PTC016339
+- U52590JH2021PTC016339
 ---
 
 >On which date was the company incorporated?
-
-April 06 2021
+- April 06 2021
 ---
 
 >What is the category and subcategory of the company?
-
-Category-Company limited by shares;sub category non-govtment company
+- Category-Company limited by shares;sub category non-govtment company
 ---
 
-- What is the class of the company?
-
-Private
+>What is the class of the company?
+- Private
 
 ---
 
-- What is the authorized capital of the company?
-100000
+>What is the authorized capital of the company?
+- 100000
 ---
 
-- Is the company listed or unlisted?
-UnliSted
+>Is the company listed or unlisted?
+- UnliSted
 ---
 
-- What is the principal business activity of the company?
-Retail trade,except of motor vehicles and motorcycles repairs of personal and household goods 
+>What is the principal business activity of the company?
+- Retail trade,except of motor vehicles and motorcycles repairs of personal and household goods 
 ---
 
-- Are there any charges associated with the company?
-No charge details exits for this company
+>Are there any charges associated with the company?
+- No charge details exits for this company
 ---
 
-- What is the registered office address of the company?
-C/O Ram Murmu Manjhladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro Jharkhand 827014 India 
+>What is the registered office address of the company?
+- C/O Ram Murmu Manjhladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro Jharkhand 827014 India 
 ---
 
-Disclaimer: Vakilsearch assumes no responsibility or liability for any errors or omissions in the content
+Disclaimer: Runash assumes responsbility or liability for any omissions in the content
 
 of this page. The data is derived from mca.gov.in and ipindia.gov.in
 
