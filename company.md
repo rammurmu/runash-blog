@@ -17,7 +17,7 @@ Manjhaladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro JH 827014 IN. I
 Meeting (AGM) was last held on -. As per the Ministry of Corporate Affairs (MCA) records, the balance sheet
 was filed on-, with an authorized share capital of 100000 and its paid-up capital is 100000.
 
-- The primary email address of the contact person is  admin@runash.in
+**The primary email address of the contact person is**  [admin@runash.in](email.admin@runash.in)
 
 >Basic information
 >
@@ -68,47 +68,54 @@ No charge details exists for this company.
 
 
 >Contact Information<br>
-Email Id admin@runash.in
+[Email Id admin@runash.in](email.admin.in)
 
 >Registered Office Address <br>C/o Ram Murmu Manjhaladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro JH 827014 IN
 
 **FAQ's**
 
->What is the CIN of the company?
-- U52590JH2021PTC016339
----
+**What is the CIN of the company?**<br>
+U52590JH2021PTC016339
 
->On which date was the company incorporated?
-- April 06 2021
 ---
-
->What is the category and subcategory of the company?
-- Category-Company limited by shares;sub category non-govtment company
----
-
->What is the class of the company?
-- Private
+**On which date was the company incorporated?**<br>
+April 06 2021
 
 ---
 
->What is the authorized capital of the company?
-- 100000
+**What is the category and subcategory of the company?**<br>
+Category-Company limited by shares;sub category non-govtment company
+
 ---
 
->Is the company listed or unlisted?
-- UnliSted
+**What is the class of the company?**<br>
+Private
+
 ---
 
->What is the principal business activity of the company?
-- Retail trade,except of motor vehicles and motorcycles repairs of personal and household goods 
+**What is the authorized capital of the company?**<br>
+100000
+
 ---
 
->Are there any charges associated with the company?
-- No charge details exits for this company
+**Is the company listed or unlisted?**<br>
+UnliSted
+
 ---
 
->What is the registered office address of the company?
-- C/O Ram Murmu Manjhladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro Jharkhand 827014 India 
+**What is the principal business activity of the company?**<br>
+Retail trade,except of motor vehicles and motorcycles repairs of personal and household goods
+
+---
+
+**Are there any charges associated with the company?**<br>
+No charge details exits for this company
+
+---
+
+**What is the registered office address of the company?**<br>
+C/O Ram Murmu Manjhladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro Jharkhand 827014 India
+
 ---
 
 Disclaimer: Runash assumes responsbility or liability for any omissions in the content
