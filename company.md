@@ -17,7 +17,7 @@ Manjhaladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro JH 827014 IN. I
 Meeting (AGM) was last held on -. As per the Ministry of Corporate Affairs (MCA) records, the balance sheet
 was filed on-, with an authorized share capital of 100000 and its paid-up capital is 100000.
 
-**The primary email address of the contact person is**  [admin@runash.in](email.admin@runash.in)
+The primary email address of the contact person is  [admin@runash.in](email.admin@runash.in)
 
 >Basic information
 >
@@ -70,7 +70,7 @@ No charge details exists for this company.
 >Contact Information<br>
 [Email Id admin@runash.in](email.admin.in)
 
->Registered Office Address <br>C/o Ram Murmu Manjhaladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro JH 827014 IN
+>Registered Office Address <br>C/o Ram Murmu Manjhaladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro JH 827014 INDIA
 
 **FAQ's**
 
@@ -118,9 +118,8 @@ C/O Ram Murmu Manjhladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro Jh
 
 ---
 
-Disclaimer: Runash assumes responsbility or liability for any omissions in the content
 
-of this page. The data is derived from mca.gov.in and ipindia.gov.in
+**Disclaimer:** Runash assumes responsbility or liability for any omissions in the contentof this page. The data is derived from mca.gov.in and ipindia.gov.in
 
 `` ✍️Author ``
 
