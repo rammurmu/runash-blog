@@ -81,16 +81,19 @@ Balidih North Gorabali Bokaro Bokaro JH 827014 IN
 
 **FAQ's**
 
-- What is the CIN of the company?
+>What is the CIN of the company?
 
+U52590JH2021PTC016339
 ---
 
-- On which date was the company incorporated?
+>On which date was the company incorporated?
 
+April 06 2021
 ---
 
-- What is the category and subcategory of the company?
+>What is the category and subcategory of the company?
 
+Category-Company limited by shares;sub category non-govtment company
 ---
 
 - What is the class of the company?
@@ -100,23 +103,23 @@ Private
 ---
 
 - What is the authorized capital of the company?
-
+100000
 ---
 
 - Is the company listed or unlisted?
-
+UnliSted
 ---
 
 - What is the principal business activity of the company?
-
+Retail trade,except of motor vehicles and motorcycles repairs of personal and household goods 
 ---
 
 - Are there any charges associated with the company?
-
+No charge details exits for this company
 ---
 
 - What is the registered office address of the company?
-
+C/O Ram Murmu Manjhladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro Jharkhand 827014 India 
 ---
 
 Disclaimer: Vakilsearch assumes no responsibility or liability for any errors or omissions in the content
