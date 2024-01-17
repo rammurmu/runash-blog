@@ -48,7 +48,7 @@ The primary email address of the contact person is  [admin@runash.in](email.adm
 Whether Listed or not Unlisted
 
 **Date of last AGM** <br>
-2024
+2021-2024
 
 **Date of Balance Sheet** <br>
 2021-2024
@@ -119,7 +119,7 @@ C/O Ram Murmu Manjhladih Post Balidih PS Balidih North Gorabali Bokaro Bokaro Jh
 ---
 
 
-**Disclaimer:** Runash assumes responsbility or liability for any omissions in the contentof this page. The data is derived from mca.gov.in and ipindia.gov.in
+**Disclaimer:** Runash assumes responsbility or liability for any omissions in the content of this page. The data is derived from mca.gov.in and ipindia.gov.in
 
 `` ✍️Author ``
 
