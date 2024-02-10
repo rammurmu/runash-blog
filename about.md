@@ -6,12 +6,12 @@ permalink: /about/
 
 ## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
 ### 🎤 Introduction 
-Runash is an AI powered live retail streaming platform,where the retailers can meet to buyers and demonstrate their organic products 
+Runash is an AI powered live streaming platform,where the retailers can meet to buyers and demonstrate their organic products 
 ### Discipline and culture 
 Discipline and learning is the backbone of the development of our startup journy and culture is behavior 
 
 - <b> Runash one liner</b><br>
-A live retail streaming marketplace and platform 
+A live retail streaming platform 
 - <b>What we do ?</b><br>
 We're created new model of marketplace where retailers face-to-face meet,showcase,demonstrate,and presentation their organic products with buyers
 - <b>What we going to making ?</b><br>
@@ -22,9 +22,9 @@ we're commite to building live retail streaming platform and new ways to use phy
 ### Purpose 
 - <b>Why @runash exit ?</b><br>We're committed to building new ways to use physics reality experience 
 
-- <b>Why can we solve this better than anyone else ?</b><br>we're solve real life daily basis real life problems for real buying and real shopping with real life buying and shipping experience 
+- <b>Why can we solve this better than anyone else ?</b><br>we're solve real life daily basis real life problems for real selling and real shopping with real life buying and shipping experience 
 
-- <b>Why does this problem need to be solved now ?</b><br>We're facing this problem in my real life when we starte my first offline retail store,
+- <b>Why does this problem need to be solved now ?</b><br>We're facing this problem in my real life when we started my first offline retail store,
 
 ### 🎯 Goal
 Our goal is growing naturally or organically, word-of-mouth, increasing live streaming content creation, new users, and retention.
