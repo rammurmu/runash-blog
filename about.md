@@ -11,10 +11,10 @@ Runash is an AI powered live retail streaming platform,where the retailers can m
 Discipline and learning is the backbone of the development of our startup journy and culture is behavior 
 
 - <b> Runash one liner</b><br>
-A live retail streaming platform and marketplace
+A live retail streaming marketplace and platform 
 - <b>What we do ?</b><br>
-We created new model of marketplace where retailers face-to-face meet,showcase,demonstrate,and presentation their products with buyers
-- <b>What we going to making ?<b/><br>
+We're created new model of marketplace where retailers face-to-face meet,showcase,demonstrate,and presentation their organic products with buyers
+- <b>What we going to making ?</b><br>
 we're commite to building live retail streaming platform and new ways to use physical reality experience 
 - <b>What we does ?</b><br>Currently,Indias 73% unorganized retail businesses don't enable online selling,but the existing solution is doesn't fulfill to needs, to obtain their own made,real selling experience,a trusted traditional commerce model, because doesn't exist live streaming marketplace 
 - <b>What we will do ?</b><br>Retailers now can use face to face,contactless,own made,trusted,and real selling experience 
