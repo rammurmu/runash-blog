@@ -13,24 +13,24 @@ Discipline and learning is the backbone of the development of our startup journy
 - <b> Runash one liner</b><br>
 A live retail streaming platform 
 - <b>What we do ?</b><br>
-We're created new model of marketplace where retailers face-to-face meet,showcase,demonstrate,and presentation their organic products with buyers
+We're created new model of marketplace where the retailers face to face meet,demonstrate,and presentation their organic products with buyers
 - <b>What we going to making ?</b><br>
-we're commite to building live retail streaming platform and new ways to use physical reality experience 
-- <b>What we does ?</b><br>Currently,Indias 73% unorganized retail businesses don't enable online selling,but the existing solution is doesn't fulfill to needs, to obtain their own made,real selling experience,a trusted traditional commerce model, because doesn't exist live streaming marketplace 
-- <b>What we will do ?</b><br>Retailers now can use face to face,contactless,own made,trusted,and real selling experience 
+we're commite to building live streaming platform and new ways to use physical reality experience 
+- <b>What we does ?</b><br>Currently, India's 73% unorganized retailers don't enable online selling,but the existing solution is doesn't fulfill to needs,to obtain their own made,real selling experience,and a secure and trusted traditional commerce model, because doesn't exist live streaming marketplace 
+- <b>What we will do ?</b><br>The retailers can use face to face,own made, secure and trusted,real selling experiences
 
 ### Purpose 
 - <b>Why @runash exit ?</b><br>We're committed to building new ways to use physics reality experience 
 
-- <b>Why can we solve this better than anyone else ?</b><br>we're solve real life daily basis real life problems for real selling and real shopping with real life buying and shipping experience 
+- <b>Why can we solve this better than anyone else ?</b><br>we're solve real life own made real sell's and experience problems for real selling with real life selling experience 
 
 - <b>Why does this problem need to be solved now ?</b><br>We're facing this problem in my real life when we started my first offline retail store,
 
 ### 🎯 Goal
-Our goal is growing naturally or organically, word-of-mouth, increasing live streaming content creation, new users, and retention.
+Our goal is grow naturally,word-of-mouth,increasing live streaming content creation, new users, and retention.
 
 ### 👁️ Vision
-Enabling and accessing face  to face,self made and  real experience to access physical reality 
+Enabling and accessing face to face,own made and real experience to access physical reality 
 
 ### 📃 Mission
 Changing the nature and model of marketplace through live streaming to get a real selling  experience
