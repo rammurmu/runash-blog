@@ -6,15 +6,16 @@ permalink: /about/
 
 ## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
 ### 🎤 Introduction 
-Runash is a live retail streaming platform,where the retailers can meet to buyers and demonstrate their organic products 
+Runash is an AI powered live retail streaming platform,where the retailers can meet to buyers and demonstrate their organic products 
 ### Discipline and culture 
-Discipline and learning is the bacbone of the development of our startup journy and culture is behavior 
+Discipline and learning is the backbone of the development of our startup journy and culture is behavior 
 
 - <b> Runash one liner</b><br>
 A live retail streaming platform and marketplace
 - <b>What we do ?</b><br>
 We created new model of marketplace where retailers face-to-face meet,showcase,demonstrate,and presentation their products with buyers
-- <b>What we going to making ?<b/><br>we're commite to building live retail streaming platform and new ways to use physical reality experience 
+- <b>What we going to making ?<b/><br>
+we're commite to building live retail streaming platform and new ways to use physical reality experience 
 - <b>What we does ?</b><br>Currently,Indias 73% unorganized retail businesses don't enable online selling,but the existing solution is doesn't fulfill to needs, to obtain their own made,real selling experience,a trusted traditional commerce model, because doesn't exist live streaming marketplace 
 - <b>What we will do ?</b><br>Retailers now can use face to face,contactless,own made,trusted,and real selling experience 
 
@@ -37,14 +38,16 @@ Changing the nature and model of marketplace through live streaming to get a rea
 ### 🌐 Market Opportunity
 The overall size of retail market for all market segments is approximate $ 99 Billion by 2021. market can be broken down, however, into major market segment offline retails, which comprise about 77% of the market ($ 140-160 Billion), and online, which accounts for 23% ($ 60 Billion).
 
+## Business Model
+
 ### 💞 Value Proposition
-User experience first, self-made reality experience, easiness, and trusted services/products experience. that fulfill the needs of retail customers 
+Physical reality (real)experience,own-made experience, empowered retailers, and secure and trusted services/products experience. that fulfill the needs of retails 
 
 ### 💰 Revenue Model
-Financial interchangeably is both to generate profit and to produce returns on invested capital that exceed alternative investment. primary revenue is sales fee and transaction fee, and secondary revenue is pay-per-view and subscription models
+Financial interchangeably is both to generate profit and to produce returns on invested capital that exceed alternative investment. primary revenue is subscription model and secondary revenue is sales of goods.
 
 ### 🏇 Competitive Environment
-Many companies operating in the same market space selling similar products. We create village-level kiosks and leverage our operations. Each competitor's market share is 10%. Growing organically users base to profitable.Use 10/5/20 and P 5 rules for pricing. Direct  [Whatnot](https://whatnot.com) [Bambusar](https://bambusar.com) etc.Indirect  [Walmart](https://) [Amazon](https://amazon.liv.com) etc
+Many companies operating in the same market space selling similar products. We create village-level kiosks and leverage our operations. Each competitor's market share is 10-20%.Users base to profitable. Direct  [Whatnot](https://whatnot.com) [Bambusar](https://bambusar.com) etc.Indirect  [Walmart](https://) [Amazon](https://amazon.liv.com) etc
 
 ### 🏆Competitive Advantage 
 - That can provide superior products at the lowest cost on a global basis,
