@@ -41,7 +41,7 @@ The overall size of retail market for all market segments is approximate $ 99 Bi
 ## Business Model
 
 ### 💞 Value Proposition
-Physical reality (real)experience,own-made experience, empowered retailers, and secure and trusted services/products experience. that fulfill the needs of retails 
+Physical reality experience,own-made experience, empowered retailers, and secure and trusted services/products experience.That fulfill the needs of retails 
 
 ### 💰 Revenue Model
 Financial interchangeably is both to generate profit and to produce returns on invested capital that exceed alternative investment. primary revenue is subscription model and secondary revenue is sales of goods.
