@@ -1,9 +1,11 @@
 --- 
 layout: page 
-title: Influencer 
+title: Influencer Community 
 parmalink: /influencer/ 
 --- 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
+
+
 👏 Welcome to RunAsh family !
 # 🧑‍🤝‍🧑 INFLUENCER COMMUNITY 👫
 ### INFLUENCER PROGRAM
@@ -27,4 +29,4 @@ If products and services are being bought and sold online,you can automatically 
 
 
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream 
-[``About``](https://) [``Privacy``](https://) [``Help``](https://) [``FAQ``](https://) [``Contact``](https://) [``Blog``](https://) [``Go Live``](https://) [``Watch Live``](https://)
+[``About``](https://#about) [``Privacy``](https://) [``Help``](https://) [``FAQ``](https://) [``Contact``](https://) [``Blog``](https://) [``Live``](https://) [``Watch``](https://)
