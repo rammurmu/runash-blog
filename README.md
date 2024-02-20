@@ -3,6 +3,14 @@ Runash is an AI powered live streaming platform for retailers
 
 This is a RunAsh project bootstrapped with create-Jekylly.Jekyll is a blog-aware static site generator in Ruby
 
+## Installation
+Jekyll is a Ruby Gem that can be installed on most systems.
+
+RequirementsPermalink
+Ruby version 2.5.0 or higher, including all development headers (check your Ruby version using ``ruby -v``)
+RubyGems (check your Gems version using ``gem -v``)
+GCC and Make (check versions using ``gcc -v``,``g++ -v``, and ``make -v``)
+
 ## Getting Started
 First, run the development server:
 
