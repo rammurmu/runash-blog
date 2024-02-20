@@ -1,9 +1,7 @@
 # Welcome to runash
 Runash is an AI powered live streaming platform for retailers 
 
-This is a RunAsh project bootstrapped with create-next-app.
-
-Jekyll is a blog-aware static site generator in Ruby
+This is a RunAsh project bootstrapped with create-Jekylly.Jekyll is a blog-aware static site generator in Ruby
 ## Getting Started
 First, run the development server:
 
