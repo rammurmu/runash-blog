@@ -1,8 +1,9 @@
 --- 
-layout: page 
-title: live
-permalink: /live/ 
---- 
+title: "How it works"
+date: 2024-01-01
+author: Posted by 🙋 @rammurmu
+---
+
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
 What is streaming? | How video streaming works
 Streaming is a method of viewing video or listening to audio content without actually downloading the media files. Streaming performance can be improved, and buffering time reduced, if the owner of the files uses a CDN.
