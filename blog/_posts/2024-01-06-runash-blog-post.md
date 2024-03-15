@@ -4,8 +4,6 @@ date: 2024-01-06
 author: Posted by 🙋 @rammurmu
 ---
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
-
 What is live streaming? | How live streaming works?<br>
 Live streaming is the delivery of video or audio data to an audience over the Internet as the data is created.
 
@@ -103,26 +101,3 @@ Caching: A CDN caches each video segment of a live stream. The CDN can then deli
 
 
 Serving a live stream from a cache seems like a contradiction: If the stream is live, how can saving it and delivering it a few seconds later be faster? While it's true that a cached live stream will lag behind real-time, this is still faster than going all the way to the origin server. The round trip would take so long that the stream would fall even further behind. With CDN caching, users experience minimal lag time.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream 
-[``About``](https://) [``Privacy``](https://) [``Help``](https://) [``FAQ``](https://) [``Contact``](https://) [``Blog``](https://) [``Go Live``](https://) [``Watch Live``](https://)
