@@ -1,5 +1,5 @@
 ---
-title: "video CND"
+title: "Influencer Community"
 date: 2024-01-05
 author: Posted by 🙋 @rammurmu
 ---
