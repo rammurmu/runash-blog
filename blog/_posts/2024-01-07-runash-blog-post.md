@@ -4,8 +4,7 @@ date: 2024-01-07
 author: Posted by 🙋 @rammurmu
 ---
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
-What is streaming? | How video streaming works<br>
+What is streaming? | How video streaming works?<br>
 Streaming is a method of viewing video or listening to audio content without actually downloading the media files. Streaming performance can be improved, and buffering time reduced, if the owner of the files uses a CDN.
 
 What is streaming?<br>
@@ -46,8 +45,3 @@ Not enough bandwidth: For streaming video, home networks need about 4 Mbps of ba
 How can streaming be made faster?<br>
 Streaming is subject to the same kinds of delays and performance degradations as other kinds of web content. Because the streamed content is stored elsewhere, hosting location makes a big difference, as is the case with any type of content accessed over the Internet. If a user in New York is trying to stream from a Netflix server in Los Gatos, the video content will have to cross 3,000 miles in order to reach the user, and the video will have to spend a long time buffering or may not even play at all. For this reason, Netflix and other streaming providers make extensive use of distributed content delivery networks (CDN), which store content in locations around the world that are much closer to users.
 
-
-
-
-
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
