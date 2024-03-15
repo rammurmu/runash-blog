@@ -1,15 +1,15 @@
---- 
-layout: page 
-title: What is ive streaming ?
-parmalink: /livestream/ 
---- 
+---
+title: "Live Streaming"
+date: 2024-01-06
+author: Posted by 🙋 @rammurmu
+---
+
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Live Stream
 
-What is live streaming? | How live streaming works
-
+What is live streaming? | How live streaming works?<br>
 Live streaming is the delivery of video or audio data to an audience over the Internet as the data is created.
 
-What is live streaming?
+What is live streaming?<br>
 Streaming is the method of data transmission used when someone watches video on the Internet. It is a way to deliver a video file a little bit at a time, often from a remote storage location. By transmitting a few seconds of the file at a time over the internet, client devices do not have to download the entire video before starting to play it.
 
 
@@ -22,7 +22,7 @@ Think about the difference between regular streaming and live streaming as the d
 The term live streaming usually refers to broadcast live streams: one-to-many connections that go out to multiple users at once. Videoconferencing technologies like Skype, FaceTime, and Google Hangouts Meet work on real-time communication (RTC) protocols rather than the protocols used by one-to-many live stream broadcasts.
 
 
-How does live streaming work on a technical level?
+How does live streaming work on a technical level?<br>
 These are the main steps that take place behind the scenes in a live stream:
 
 
@@ -38,7 +38,7 @@ These are the main steps that take place behind the scenes in a live stream:
 Live streaming starts with raw video data: the visual information captured by a camera. Within the computing device to which the camera is attached, this visual information is represented as digital data – in other words, 1s and 0s at the deepest level.
 
 
-Compression and encoding
+Compression and encoding<br>
 Next, the segmented video data is compressed and encoded. The data is compressed by removing redundant visual information. For example, if the first frame of the video displays a person talking against a grey background, the grey background does not need to render for any subsequent frames that have the same background.
 
 
@@ -66,11 +66,11 @@ A CDN is a distributed network of servers that cache and serve content on behalf
 A CDN will also cache – temporarily save – each segment of the live stream, so most viewers will get the live stream from the CDN cache instead of from the origin server. This actually makes the live stream closer to real-time even though the cached data is a few seconds behind, because it cuts down on round-trip time (RTT) to and from the origin server.
 
 
-Decoding and video playback
+Decoding and video playback<br>
 The CDN sends the live stream out to all the users who are watching the stream. Each user's device receives, decodes, and decompresses the segmented video data. Finally, a media player on the user's device – either a dedicated app or a video player within the browser – interprets the data as visual information, and the video plays.
 
 
-An example
+An example<br>
 Suppose Alice starts a live stream on her smartphone and Bob, who lives on the other side of the country, tunes into the live stream on his smartphone, along with a few dozen more of Alice's friends. Alice starts out the live stream by turning the smartphone camera on herself and saying, "Hello, world!" What needs to happen for that "Hello, world" section of video to reach Bob on the other side of the country, along with all the other people watching the stream?
 
 
@@ -83,7 +83,7 @@ Now the app Alice is using will send the encoded, compressed version of her sayi
 Bob's phone decodes the video segment and reconstructs the compressed data, so that Alice's kitchen wall appears in every frame. And finally, only a few seconds after Alice said "Hello, world" in her kitchen on the other side of the country, her face appears on Bob's smartphone and Bob sees and hears her greeting.
 
 
-Why is a CDN important for live streaming?
+Why is a CDN important for live streaming?<br>
 Bandwidth: Any given point on a network can only have so much data pass through at a time; this measurement is known as "bandwidth." If a stream of data reaches a point on the network where the amount of data exceeds capacity, this is called a "choke point" because data delivery is choked off and slowed down. A choke point is similar to the way traffic slowdowns might occur when too many cars attempt to use a single-lane road.
 
 
